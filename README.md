@@ -1,6 +1,6 @@
 # underclassman-internships 
 
-Ultimate list of internship/externship/fellowship curated to freshman and sophomores studying Computer Science
+Ultimate list of internship/externship/fellowship curated to freshmen and sophomores studying Computer Science
 
 Plus some resources for juniors & above, underrepresented students in CS, and non-CS students
 
@@ -19,6 +19,7 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 | Oracle Sophomore Internship | Sophomore | Internships open to Sophomores. Search "Sophomore" on their [career site](https://www.oracle.com/corporate/careers/students-grads/internships/) |
 | [Salesforce Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Sophomore | Pre-internship at Salesforce Tower, San Francisco |
 | [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship |
+| [Booz Allen Summer Games Internship](https://www.boozallen.com/careers/university-talent/booz-allen-summer-games.html) | All Student | 10-week paid program that simulates a real-world startup accelerator |
 | [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
 | [Palantir Path](https://www.palantir.com/careers/students/path/) | Junior | For students new to CS with limited experiences. Historically open in August |
 | [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Did not open for summer 2023 |
