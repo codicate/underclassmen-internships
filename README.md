@@ -1,4 +1,4 @@
-# early-career
+# underclassman-internships 
 
 Ultimate list of internship/externship/fellowship curated to freshman and sophomores studying Computer Science
 
