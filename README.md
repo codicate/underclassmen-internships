@@ -17,10 +17,11 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 | ✨ [UberSTAR](https://www.uber.com/us/en/careers/teams/university/) | Freshmen, Sophomore | Historically open in September |
 | Two Sigma Freshman Internship | Freshman | Historically open in September |
 | [Salesforce Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Sophomore | Pre-internship at Salesforce Tower, San Francisco |
+| EA Pathfinder | Freshman, Sophomore | Open to SWE, PM, etc. Search "pathfinder" on their [career site](https://ea.gr8people.com/jobs) |
 | ✨ [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Open to CS, Business, and Finance |
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship |
-| Oracle Sophomore Internship | Sophomore | Internships open to Sophomores. Search "Sophomore" on their [career site](https://www.oracle.com/corporate/careers/students-grads/internships/) |
+| Oracle Sophomore Internship | Sophomore | Open to SWE, UX, etc. Internships open to Sophomores. Search "Sophomore" on their [career site](https://www.oracle.com/corporate/careers/students-grads/internships/) |
 | ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Did not open for summer 2023 |
 | ✨ [Twitter Academy](https://careers.twitter.com/en/early-career.html) | Sophomore | Did not open for summer 2023 |
 | Bank of America Freshman Analyst | Freshman | Did not open for summer 2023 |
