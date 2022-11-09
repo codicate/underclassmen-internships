@@ -18,6 +18,7 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 | Two Sigma Freshman Internship | Freshman | Historically open in September |
 | [Salesforce Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Sophomore | Pre-internship at Salesforce Tower, San Francisco |
 | EA Pathfinder | Freshman, Sophomore | Open to SWE, PM, etc. Search "pathfinder" on their [career site](https://ea.gr8people.com/jobs) |
+| [BAE Systems LEAP](https://jobs.baesystems.com/global/en/leap) | Freshman, Sophomore | Internship for SWE, MechE, ECE, etc. avaliable on their [career site](https://jobs.baesystems.com/global/en/leap). Go through each page and find your class year (search is kinda broken) |
 | ✨ [Zillow ZEAL](https://www.zillow.com/careers/internships/) | Sophomore | Remote 10 week program where you get to rotate among different SWE teams |
 | ✨ [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Open to CS, Business, and Finance |
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
