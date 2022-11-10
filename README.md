@@ -50,6 +50,14 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 | ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | Freshman, Sophomore, Junior | Match Black & Latinx students to summer internships |
 | ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
 | [STEM-away Educational Internship](https://stemaway.com/apply) | All student | Virtual educational internships in SWE, ML, UX, Cloud, Hardware, Bioinformatics, etc. |
+
+<br/>
+
+## Winternship
+
+| Name | Year | Note | 
+| ---- | ---- | ---- |
+| Trail of Bits | All student | Work on cybersecurity related projects durign winter break. [Vulnerability Research](https://jobs.lever.co/trailofbits/5c836c41-04d0-4f16-8f7d-e3cfdc33191b) and [Open Source](https://jobs.lever.co/trailofbits/6a491883-3aaf-444e-a56c-3a0b37d6837e). Stipend available |
 | [Impact Labs Fellowship](https://www.impactlabs.io/fellowship) | Student & Non-student | 2-week program in NYC during winter break. Financial assistance available |
 
 <br/>
