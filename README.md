@@ -57,6 +57,7 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 
 | Name | Year | Note | 
 | ---- | ---- | ---- |
+| ✨ [HRT Women in Trading Tech Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=4384272&req_id=301) | Freshman, Sophomore | 2-4 week paid winternship for women new to quant |
 | Trail of Bits | All student | Work on cybersecurity related projects durign winter break. [Vulnerability Research](https://jobs.lever.co/trailofbits/5c836c41-04d0-4f16-8f7d-e3cfdc33191b) and [Open Source](https://jobs.lever.co/trailofbits/6a491883-3aaf-444e-a56c-3a0b37d6837e). Stipend available |
 | [Impact Labs Fellowship](https://www.impactlabs.io/fellowship) | Student & Non-student | 2-week program in NYC during winter break. Financial assistance available |
 
