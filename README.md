@@ -14,16 +14,16 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 | ---- | ---- | ---- |
 | ✨ [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Historically open in mid September |
 | ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open on August 1st |
-| ✨ [UberSTAR](https://www.uber.com/us/en/careers/teams/university/) | Freshmen, Sophomore | Historically open in September |
 | Two Sigma Freshman Internship | Freshman | Historically open in September |
-| [Salesforce Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Sophomore | Pre-internship at Salesforce Tower, San Francisco |
 | EA Pathfinder | Freshman, Sophomore | Open to SWE, PM, etc. Search "pathfinder" on their [career site](https://ea.gr8people.com/jobs) |
+| ✨ [UberSTAR](https://www.uber.com/us/en/careers/teams/university/) | Freshmen, Sophomore | Historically open in September |
 | [BAE Systems LEAP](https://jobs.baesystems.com/global/en/leap) | Freshman, Sophomore | Internship for SWE, MechE, ECE, etc. avaliable on their [career site](https://jobs.baesystems.com/global/en/leap). Go through each page and find your class year (search is kinda broken) |
+| [Citadel Launch Internship](https://www.citadel.com/careers/details/launch-internship-summer-2023/) | Sophomore | 11 week program for aspiring engineers |
+| [Salesforce Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Sophomore | Pre-internship at Salesforce Tower, San Francisco |
 | ✨ [Zillow ZEAL](https://www.zillow.com/careers/internships/) | Sophomore | Remote 10 week program where you get to rotate among different SWE teams |
 | ✨ [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Open to CS, Business, and Finance |
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship |
-| Oracle Sophomore Internship | Sophomore | Open to SWE, UX, etc. Internships open to Sophomores. Search "Sophomore" on their [career site](https://www.oracle.com/corporate/careers/students-grads/internships/) |
 | ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Did not open for summer 2023 |
 | ✨ [Twitter Academy](https://careers.twitter.com/en/early-career.html) | Sophomore | Did not open for summer 2023 |
 | Bank of America Freshman Analyst | Freshman | Did not open for summer 2023 |
@@ -38,15 +38,15 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
-| [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Start-ups fellowship open to CS & Design |
-| [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore, Junior, Senior, Grad | Match students to NYC tech start-ups |
 | [Microsoft New Techs](https://newtechnologists.com/) | Freshman, Sophomore | 7-week hands-on training program. Mentorship from Microsoft senior staffs |
 | [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week internship in Software Engineering, Site Reliability Engineering, and Web3. Available Spring, Summer, and Fall. Stipend available |
+| ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | Freshman, Sophomore, Junior | Match Black & Latinx students to summer internships |
+| [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore, Junior, Senior | Match students to NYC tech start-ups |
+| [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Start-ups fellowship open to CS & Design |
+| ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies. Available for students in CS, Business, Journalism, etc. |
 | [IBM Extreme Blue Technical Leadership](https://www.ibm.com/employment/extremeblue/index.html) | All student | 12-week internship program for tech and business students |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
 | [Civic Digital Fellowship](https://www.codingitforward.com/summer-fellowships) | All student | Connecting students in tech to government offices. Historically opens on January 4th |
-| ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies. Available for students in CS, Business, Journalism, etc. |
-| ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | Freshman, Sophomore, Junior | Match Black & Latinx students to summer internships |
 | [STEM-away Educational Internship](https://stemaway.com/apply) | All student | Virtual educational internships in SWE, ML, UX, Cloud, Hardware, Bioinformatics, etc. |
 
 <br/>
@@ -65,18 +65,15 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
-| Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
 | ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
-| ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
 | ✨ [Uber career prep fellowship](https://www.uber.com/global/en/careers/list/118049/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship |
+| Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
-| ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
+| ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
+| ✨ [Twitter #EarlyBird](https://careers.twitter.com/en/early-career.html) | Sophomore | Five day virtual program. There are also #DevelopHer and #FirstFlight for juniors, and #TakeFlight for all students |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
-| ✨ [Twitter #EarlyBird](https://careers.twitter.com/en/early-career.html) | Sophomore | Five day virtual program |
-| ✨ [Twitter #TakeFlight](https://careers.twitter.com/en/early-career.html) | All student | Two day virtual program |
-| ✨ [Twitter #FirstFlight](https://careers.twitter.com/en/early-career.html) | Junior | Two day program. Pathway for full-time internship |
-| ✨ [Twitter #DevelopHER](https://careers.twitter.com/en/early-career.html) | Junior | Two day program |
+| ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
 | Konrad Immersive Program | Student & Non-student | in-person at San Jose or remote program to learn [web development](https://www.konrad.com/careers/san-jose/web-development-program) or [QA](https://www.konrad.com/careers/san-jose/qa-program). Stipend available |
 
 <br/>
@@ -87,7 +84,7 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 | ---- | ---- | ---- |
 | [Greylock Tech Fair](https://greylock.com/university-programs/) | All student | Prestigious tech fair for sillicon valley start-ups |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Student & Non-student | Program for developers new to open-source contribution. Stipend available |
-| Hacker News Who is Hiring? | All students | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". Start-ups are generally more open to Freshmen and Sophomores |
-| [Impact Labs Summit](https://www.impactlabs.io/summit) | Student & Non-student | In-person tech networking event in NYC |
 | [CodePath](https://www.codepath.org/courses) | Student & Non-student | 10-week online courses in web dev, cyber, mobile etc. for free |
 | [Forage](https://www.theforage.com/) | Student & Non-student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
+| [Impact Labs Summit](https://www.impactlabs.io/summit) | Student & Non-student | In-person tech networking event in NYC |
+| Hacker News Who is Hiring? | Student & Non-student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". Start-ups are generally more open to Freshmen and Sophomores |
