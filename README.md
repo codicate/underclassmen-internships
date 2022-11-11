@@ -46,9 +46,7 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
 | [Civic Digital Fellowship](https://www.codingitforward.com/summer-fellowships) | All student | Connecting students in tech to government offices. Historically opens on January 4th |
 | ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies. Available for students in CS, Business, Journalism, etc. |
-| ✨ [Uber career prep fellowship](https://www.uber.com/global/en/careers/list/118049/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship |
 | ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | Freshman, Sophomore, Junior | Match Black & Latinx students to summer internships |
-| ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
 | [STEM-away Educational Internship](https://stemaway.com/apply) | All student | Virtual educational internships in SWE, ML, UX, Cloud, Hardware, Bioinformatics, etc. |
 
 <br/>
@@ -71,12 +69,15 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 | ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
 | ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
+| ✨ [Uber career prep fellowship](https://www.uber.com/global/en/careers/list/118049/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship |
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
+| ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
 | ✨ [Twitter #EarlyBird](https://careers.twitter.com/en/early-career.html) | Sophomore | Five day virtual program |
 | ✨ [Twitter #TakeFlight](https://careers.twitter.com/en/early-career.html) | All student | Two day virtual program |
 | ✨ [Twitter #FirstFlight](https://careers.twitter.com/en/early-career.html) | Junior | Two day program. Pathway for full-time internship |
 | ✨ [Twitter #DevelopHER](https://careers.twitter.com/en/early-career.html) | Junior | Two day program |
+| Konrad Immersive Program | Student & Non-student | in-person at San Jose or remote program to learn [web development](https://www.konrad.com/careers/san-jose/web-development-program) or [QA](https://www.konrad.com/careers/san-jose/qa-program). Stipend available |
 
 <br/>
 
