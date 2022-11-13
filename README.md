@@ -69,8 +69,8 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 | ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
 | ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
 | ✨ [Uber career prep fellowship](https://www.uber.com/global/en/careers/list/118049/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship |
-| Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
+| Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
 | ✨ [Twitter #EarlyBird](https://careers.twitter.com/en/early-career.html) | Sophomore | Five day virtual program. There are also #DevelopHer and #FirstFlight for juniors, and #TakeFlight for all students |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
