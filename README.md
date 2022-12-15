@@ -16,6 +16,7 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 | ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open on August 1st |
 | Two Sigma Freshman Internship | Freshman | Historically open in September |
 | EA Pathfinder | Freshman, Sophomore | Open to SWE, PM, etc. Search "pathfinder" on their [career site](https://ea.gr8people.com/jobs) |
+| [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman, Sophomore | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
 | ✨ [UberSTAR](https://www.uber.com/us/en/careers/teams/university/) | Freshmen, Sophomore | Historically open in September |
 | [BAE Systems LEAP](https://jobs.baesystems.com/global/en/leap) | Freshman, Sophomore | Internship for SWE, MechE, ECE, etc. avaliable on their [career site](https://jobs.baesystems.com/global/en/leap). Go through each page and find your class year (search is kinda broken) |
 | [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2023/) | Sophomore | 11 week program for aspiring engineers |
