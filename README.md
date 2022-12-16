@@ -20,6 +20,7 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 | ✨ [UberSTAR](https://www.uber.com/us/en/careers/teams/university/) | Freshmen, Sophomore | Historically open in September |
 | [BAE Systems LEAP](https://jobs.baesystems.com/global/en/leap) | Freshman, Sophomore | Internship for SWE, MechE, ECE, etc. avaliable on their [career site](https://jobs.baesystems.com/global/en/leap). Go through each page and find your class year (search is kinda broken) |
 | [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2023/) | Sophomore | 11 week program for aspiring engineers |
+| [Dropbox Launch](https://jobs.dropbox.com/teams/emerging-talent) | Sophomore | Closed, info to be added |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/181045/) | Sophomore | SWE Internship in  OCI and Cloud Platforms |
 | [Salesforce Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Sophomore | Pre-internship at Salesforce Tower, San Francisco |
 | ✨ [Zillow ZEAL](https://www.zillow.com/careers/internships/) | Sophomore | Remote 10 week program where you get to rotate among different SWE teams |
