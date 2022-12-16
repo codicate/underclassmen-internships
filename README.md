@@ -4,6 +4,8 @@ Ultimate list of internship/externship/fellowship curated to freshmen and sophom
 
 Plus some resources for juniors & above, underrepresented students in CS, and non-CS students
 
+Will update all links in August 2023. Stars & PR appreciated!
+
 ✨ = diversity program
 
 <br/>
