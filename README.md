@@ -46,7 +46,7 @@ Will update all links in August 2023. Stars & PR appreciated!
 | ---- | ---- | ---- |
 | [Microsoft New Techs](https://newtechnologists.com/) | Freshman, Sophomore | 7-week hands-on training program. Mentorship from Microsoft senior staffs |
 | ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | Freshman, Sophomore, Junior | Match Black & Latinx students to summer internships |
-| [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore, Junior, Senior | Match students to NYC tech start-ups |
+| [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore, Junior, Senior | Match students to NYC tech start-ups, and also provide a shared housing community for the internship cohort |
 | [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Start-ups fellowship open to CS & Design |
 | ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies. Available for students in CS, Business, Journalism, etc. |
