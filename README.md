@@ -17,6 +17,7 @@ Will update all links in August 2023. Stars & PR appreciated!
 | ✨ [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Historically open in mid September |
 | ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open on August 1st |
 | Two Sigma Freshman Internship | Freshman | Historically open in September |
+| Rockwell Engineering Pathways | Freshman, High School Junior & Senior | 8-10 week SW/HW internship in [Milwaukee WI](https://jobs.rockwellautomation.com/job/16761801/intern-rockwell-engineering-pathways-program-milwaukee-milwaukee-wi/) or [Mayfield Heights, OH](https://jobs.rockwellautomation.com/job/16561164/intern-rockwell-engineering-pathways-program-mayfield-mayfield-heights-oh/) |
 | EA Pathfinder | Freshman, Sophomore | Open to SWE, PM, etc. Search "pathfinder" on their [career site](https://ea.gr8people.com/jobs) |
 | [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman, Sophomore | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
 | ✨ [UberSTAR](https://www.uber.com/us/en/careers/teams/university/) | Freshmen, Sophomore | Historically open in September |
