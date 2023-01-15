@@ -56,6 +56,7 @@ Will update all links in August 2023. Stars & PR appreciated!
 | [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All Students | Match student to various tech start-ups |
 | [IBM Extreme Blue Technical Leadership](https://www.ibm.com/employment/extremeblue/index.html) | All student | 12-week internship program for tech and business students |
 | [STEM-away Educational Internship](https://stemaway.com/apply) | All student | Virtual educational internships in SWE, ML, UX, Cloud, Hardware, Bioinformatics, etc. |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Student & Non-student | Program for developers new to open-source contribution. Stipend available |
 
 <br/>
 
@@ -93,8 +94,7 @@ Will update all links in August 2023. Stars & PR appreciated!
 | Name | Year | Note |
 | ---- | ---- | ---- |
 | [Greylock Tech Fair](https://greylock.com/university-programs/) | All student | Prestigious tech fair for sillicon valley start-ups |
-| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Student & Non-student | Program for developers new to open-source contribution. Stipend available |
-| [CodePath](https://www.codepath.org/courses) | Student & Non-student | 10-week online courses in web dev, cyber, mobile etc. for free |
+| [CodePath](https://www.codepath.org/plan-your-codepath) | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.  |
 | [Forage](https://www.theforage.com/) | Student & Non-student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
-| [Impact Labs Summit](https://www.impactlabs.io/summit) | Student & Non-student | In-person tech networking event in NYC |
+| [Impact Labs Summit](https://www.impactlabs.io/summit) | Student & Non-student | Professional networking event for students & professionals in NYC |
 | Hacker News Who is Hiring? | Student & Non-student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". Start-ups are generally more open to Freshmen and Sophomores |
