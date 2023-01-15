@@ -83,6 +83,7 @@ Will update all links in August 2023. Stars & PR appreciated!
 | ✨ [Twitter #EarlyBird](https://careers.twitter.com/en/early-career.html) | Sophomore | Five day virtual program. There are also #DevelopHer and #FirstFlight for juniors, and #TakeFlight for all students |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
 | ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
+| [IBM Accelerate](https://careers.ibm.com/job/17568225/2023-ibm-accelerate-program-remote/?codes=IBM_CareerWebSite) | All student, sophomore preferred | Unpaid virtual learning experience in tracks such as Software, Hardware, Design, etc. |
 | Konrad Immersive Program | Student & Non-student | in-person at San Jose or remote program to learn [web development](https://www.konrad.com/careers/san-jose/web-development-program) or [QA](https://www.konrad.com/careers/san-jose/qa-program). Stipend available |
 
 <br/>
