@@ -49,7 +49,7 @@ Will update all links in August 2023. Stars & PR appreciated!
 | ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | Freshman, Sophomore, Junior | Match Black & Latinx students to summer internships |
 | [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore, Junior, Senior | Match students to NYC tech start-ups, and also provide a shared housing community for the internship cohort |
 | [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
-| ✨ [Civic Digital Fellowship](https://www.codingitforward.com/summer-fellowships) | All student | Connecting students in tech to government offices. Historically opens on January 4th |
+| ✨ [Civic Digital Fellowship](https://www.codingitforward.com/fellowships) | All student | Connecting students in tech to government offices. Historically opens on January 4th |
 | ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies. Available for students in CS, Business, Journalism, etc. |
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
