@@ -16,6 +16,7 @@ Will update all links in August 2023. Stars & PR appreciated!
 | ---- | ---- | ---- |
 | ✨ [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Historically open in mid September |
 | ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open on August 1st |
+| ✨ [Meta University](https://www.metacareers.com/v2/jobs/875414340161910/) | Freshman, Sophomore | Opened recently (1/15) |
 | Two Sigma Freshman Internship | Freshman | Historically open in September |
 | Rockwell Engineering Pathways | Freshman, High School Junior & Senior | 8-10 week SW/HW internship in [Milwaukee WI](https://jobs.rockwellautomation.com/job/16761801/intern-rockwell-engineering-pathways-program-milwaukee-milwaukee-wi/) or [Mayfield Heights, OH](https://jobs.rockwellautomation.com/job/16561164/intern-rockwell-engineering-pathways-program-mayfield-mayfield-heights-oh/) |
 | EA Pathfinder | Freshman, Sophomore | Open to SWE, PM, etc. Search "pathfinder" on their [career site](https://ea.gr8people.com/jobs) |
@@ -31,7 +32,6 @@ Will update all links in August 2023. Stars & PR appreciated!
 | ✨ [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Open to CS, Business, and Finance |
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship |
-| ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Did not open for summer 2023 |
 | ✨ [Twitter Academy](https://careers.twitter.com/en/early-career.html) | Sophomore | Did not open for summer 2023 |
 | Bank of America Freshman Analyst | Freshman | Did not open for summer 2023 |
 | [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
