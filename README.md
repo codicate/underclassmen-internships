@@ -1,4 +1,6 @@
-## 💥 Curated list of internships/externships/fellowships for CS freshmen and sophomores 💥
+# Underclassmen Internships 💥💥
+
+Curated list of internships/externships/fellowships exclusive for CS freshman and sophomore
 
 Will do my best to update frequently through the fall. Stars & PR appreciated!!
 
