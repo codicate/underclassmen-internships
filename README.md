@@ -23,7 +23,7 @@ Will try my best to update frequently. Stars & PR appreciated!
 | ✅ ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
 | ✨ [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Historically open in mid September |
 | ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open on August 1st |
-| ✨ [Meta University](https://www.metacareers.com/v2/jobs/875414340161910/) | Freshman, Sophomore | Opened recently (1/15) |
+| ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Opened recently (1/15) |
 | Two Sigma Freshman Internship | Freshman | Historically open in September |
 | Rockwell Engineering Pathways | Freshman, High School Junior & Senior | 8-10 week SW/HW internship in [Milwaukee WI](https://jobs.rockwellautomation.com/job/16761801/intern-rockwell-engineering-pathways-program-milwaukee-milwaukee-wi/) or [Mayfield Heights, OH](https://jobs.rockwellautomation.com/job/16561164/intern-rockwell-engineering-pathways-program-mayfield-mayfield-heights-oh/) |
 | EA Pathfinder | Freshman, Sophomore | Open to SWE, PM, etc. Search "pathfinder" on their [career site](https://ea.gr8people.com/jobs) |
