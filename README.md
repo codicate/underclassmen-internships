@@ -40,33 +40,41 @@ Will do my best to update frequently through the fall. Stars & PR appreciated!!
 <br/>
 
 ## Fellowships
-Fellowships include internship-matching program hosted by NPO/VC, and "less technical" internships hosted by companies (training, mentorship, open source, etc.). These are long in duraction (7-12 weeks)
+Fellowships can be internships, but also mentorship, training, or open source contribution programs. These are long in duraction (6-12 weeks)
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
 | [Microsoft New Techs](https://newtechnologists.com/) | Freshman, Sophomore | 7-week hands-on training program. Mentorship from Microsoft senior staffs |
-| ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | Freshman, Sophomore, Junior | Match Black & Latinx students to summer internships |
-| [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore, Junior, Senior | Match students to NYC tech start-ups, and also provide a shared housing community for the internship cohort |
+| ✨ [Uber career prep fellowship](https://www.uber.com/global/en/careers/list/118049/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship |
+| ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
+| ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
 | [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
+| [IBM Extreme Blue Technical Leadership](https://www.ibm.com/employment/extremeblue/index.html) | All student | 12-week internship program for tech and business students |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Student & Non-student | Program for developers new to open-source contribution. Stipend available |
+
+<br/>
+
+
+## Internship-matching Fellowships
+Fellowships hosted by NPOs/VCs for matching students to internships. Usually not exclusive to underclassmen, but gives us a fair shot
+
+| Name | Year | Note |
+| ---- | ---- | ---- |
+| ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships |
 | ✨ [Civic Digital Fellowship](https://www.codingitforward.com/fellowships) | All student | Connecting students in tech to government offices. Historically opens on January 4th |
 | ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies. Available for students in CS, Business, Journalism, etc. |
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
 | [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All Students | Match student to various tech start-ups |
-| [IBM Extreme Blue Technical Leadership](https://www.ibm.com/employment/extremeblue/index.html) | All student | 12-week internship program for tech and business students |
-| [STEM-away Educational Internship](https://stemaway.com/apply) | All student | Virtual educational internships in SWE, ML, UX, Cloud, Hardware, Bioinformatics, etc. |
-| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Student & Non-student | Program for developers new to open-source contribution. Stipend available |
+| [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Match students to NYC tech start-ups, and also provide a shared housing community for the internship cohort |
 
 <br/>
 
 ## Externships/Insight Series
-These are 1-5 day programs designed to help you get to know a company. Some are in-person, some includes stipend. Activities include webinasr, training, networking events, and hackathons. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
+These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinasr, training, networking events, and hackathons. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
-| ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
-| ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
-| ✨ [Uber career prep fellowship](https://www.uber.com/global/en/careers/list/118049/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship |
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
 | Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
