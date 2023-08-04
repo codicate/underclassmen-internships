@@ -18,16 +18,17 @@ Will try my best to update frequently. Stars & PR appreciated!
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
-| ✅ ✨ [UberSTAR](https://www.uber.com/us/en/careers/uberstar/?uclick_id=ee8e8699-8668-496d-ad5d-193d3c49006c) | Freshmen, Sophomore | Open in late summer to fall. [Register for interest now](https://flows.beamery.com/uber/stay-connected-with-uberstar!-7dyuntw1c?uclick_id=ee8e8699-8668-496d-ad5d-193d3c49006c) |
-| ✅ [BAE Systems LEAP](https://jobs.baesystems.com/global/en/leap) | Some open to Sophomore | Internship for SWE, ECE, Embeded, etc. avaliable on their [career site](https://jobs.baesystems.com/global/en/leap). Go through each page and find your class year |
-| ✅ ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
+| Two Sigma Freshman Internship | Freshman | Historically open in September |
+| Rockwell Engineering Pathways | Freshman | 8-10 week SW/HW internship in [Milwaukee WI](https://jobs.rockwellautomation.com/job/16761801/intern-rockwell-engineering-pathways-program-milwaukee-milwaukee-wi/) or [Mayfield Heights, OH](https://jobs.rockwellautomation.com/job/16561164/intern-rockwell-engineering-pathways-program-mayfield-mayfield-heights-oh/) |
+| Bank of America Freshman Analyst | Freshman | Did not open for summer 2023 |
 | ✨ [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Historically open in mid September |
 | ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open on August 1st |
-| ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Opened recently (1/15) |
-| Two Sigma Freshman Internship | Freshman | Historically open in September |
-| Rockwell Engineering Pathways | Freshman, High School Junior & Senior | 8-10 week SW/HW internship in [Milwaukee WI](https://jobs.rockwellautomation.com/job/16761801/intern-rockwell-engineering-pathways-program-milwaukee-milwaukee-wi/) or [Mayfield Heights, OH](https://jobs.rockwellautomation.com/job/16561164/intern-rockwell-engineering-pathways-program-mayfield-mayfield-heights-oh/) |
+| ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Not sure when will open |
+| ✅ ✨ [UberSTAR](https://www.uber.com/us/en/careers/uberstar/?uclick_id=ee8e8699-8668-496d-ad5d-193d3c49006c) | Freshmen, Sophomore | Open in late summer to fall. [Register for interest now](https://flows.beamery.com/uber/stay-connected-with-uberstar!-7dyuntw1c?uclick_id=ee8e8699-8668-496d-ad5d-193d3c49006c) |
+| ✅ ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
 | EA Pathfinder | Freshman, Sophomore | Open to SWE, PM, etc. Search "pathfinder" on their [career site](https://ea.gr8people.com/jobs) |
 | [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman, Sophomore | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
+| ✅ [BAE Systems LEAP](https://jobs.baesystems.com/global/en/leap) | Some open to Sophomore | Internship for SWE, ECE, Embeded, etc. avaliable on their [career site](https://jobs.baesystems.com/global/en/leap). Go through each page and find your class year |
 | [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2023/) | Sophomore | 11 week program for aspiring engineers |
 | [Dropbox Launch](https://jobs.dropbox.com/teams/emerging-talent#open-positions) | Sophomore | Website says will open in September |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/181045/) | Sophomore | SWE Internship in OCI and Cloud Platforms |
@@ -37,7 +38,6 @@ Will try my best to update frequently. Stars & PR appreciated!
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship |
 | ✨ [Twitter Academy](https://careers.twitter.com/en/early-career.html) | Sophomore | Did not open for summer 2023 |
-| Bank of America Freshman Analyst | Freshman | Did not open for summer 2023 |
 | [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
 | [Booz Allen Summer Games Internship](https://www.boozallen.com/careers/university-talent/booz-allen-summer-games.html) | All Student | 10-week paid program that simulates a real-world startup accelerator |
 | [YC Work at a Startup](https://www.workatastartup.com/) | All students | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
