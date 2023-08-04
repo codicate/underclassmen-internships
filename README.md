@@ -44,6 +44,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
+| ✨ [Two Sigma College Mentor Connect](https://www.twosigma.com/community/academic-partnerships/undergraduate/college-mentor-connect/) | Freshman | Pair with an employee to contribute to open source projects (part-time) |
 | [Microsoft New Techs](https://newtechnologists.com/) | Freshman, Sophomore | 7-week hands-on training program. Mentorship from Microsoft senior staffs |
 | ✨ [Uber career prep fellowship](https://www.uber.com/global/en/careers/list/118049/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship |
 | ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
