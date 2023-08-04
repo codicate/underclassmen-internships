@@ -35,7 +35,7 @@ Will do my best to update frequently through the fall. Stars & PR appreciated!!
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship |
 | ⛔ ✨ [Palantir Path](https://www.palantir.com/careers/students/path/) | Sophomore | Closed before August... Apply super early next year ig |
-| [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
+| ✅ [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
 | [YC Work at a Startup](https://www.workatastartup.com/) | All students | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
 
 <br/>
@@ -84,6 +84,7 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
 | [IBM Accelerate](https://careers.ibm.com/job/17568225/2023-ibm-accelerate-program-remote/?codes=IBM_CareerWebSite) | All student, sophomore preferred | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. |
+| [Impact Labs Summit](https://www.impactlabs.io/summit) | Student & Non-student | Professional networking event for students & professionals in NYC |
 
 <br/>
 
@@ -98,12 +99,11 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 
 <br/>
 
-## Special Programs
+## Special Programs & Resources
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
-| ⛔ [Greylock Tech Fair](https://greylock.com/university-programs/) | All student | Virtual career fair. Express interest for next year's (2024) [here](https://docs.google.com/forms/d/e/1FAIpQLSfCrRlWxEVcoZVDIwvk8_gxZlecQQJSGcTxwWGkgN4dJBam6Q/viewform) |
-| [CodePath](https://www.codepath.org/plan-your-codepath) | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.  |
-| [Forage](https://www.theforage.com/) | Student & Non-student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
-| [Impact Labs Summit](https://www.impactlabs.io/summit) | Student & Non-student | Professional networking event for students & professionals in NYC |
-| Hacker News Who is Hiring? | Student & Non-student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". Start-ups are generally more open to Freshmen and Sophomores |
+| ✅ [Greylock Tech Fair](https://greylock.com/university-programs/) | All student | Virtual career fair. Express interest for next year's (2024) [here](https://docs.google.com/forms/d/e/1FAIpQLSfCrRlWxEVcoZVDIwvk8_gxZlecQQJSGcTxwWGkgN4dJBam6Q/viewform) |
+| ✅ [CodePath](https://www.codepath.org/plan-your-codepath) | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.  |
+| ✅ [Forage](https://www.theforage.com/) | Student & Non-student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
+| ✅ Hacker News Who is Hiring? | Student & Non-student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". Start-ups are generally more open to Freshmen and Sophomores |
