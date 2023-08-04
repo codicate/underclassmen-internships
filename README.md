@@ -1,10 +1,6 @@
-# underclassman-internships 
+## 💥 Curated list of internships/externships/fellowships for CS freshmen and sophomores 💥
 
-Ultimate list of internship/externship/fellowship curated to freshmen and sophomores studying Computer Science
-
-Plus some resources for juniors & above, underrepresented students in CS, and non-CS students
-
-Will try my best to update frequently. Stars & PR appreciated!
+Will do my best to update frequently through the fall. Stars & PR appreciated!!
 
 ✅ = open
 
@@ -39,7 +35,6 @@ Will try my best to update frequently. Stars & PR appreciated!
 | ✨ [Twitter Academy](https://careers.twitter.com/en/early-career.html) | Sophomore | Did not open for summer 2023 |
 | [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
 | [YC Work at a Startup](https://www.workatastartup.com/) | All students | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
-| ✨ [Palantir Path](https://www.palantir.com/careers/students/path/) | Junior | For students new to CS with limited experiences. Historically open in August |
 
 <br/>
 
