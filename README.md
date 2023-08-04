@@ -40,6 +40,7 @@ Will do my best to update frequently through the fall. Stars & PR appreciated!!
 <br/>
 
 ## Fellowships
+Fellowships include internship-matching program hosted by NPO/VC, and "less technical" internships hosted by companies (training, mentorship, open source, etc.). These are long in duraction (7-12 weeks)
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
@@ -58,18 +59,8 @@ Will do my best to update frequently through the fall. Stars & PR appreciated!!
 
 <br/>
 
-## Winternship
-
-| Name | Year | Note | 
-| ---- | ---- | ---- |
-| ✨ [HRT Women in Trading Tech Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=4384272&req_id=301) | Freshman, Sophomore | 2-4 week paid winternship for women new to quant |
-| ✨ [CUNY Sprinternship](https://newyork.breakthroughtech.org/programs/sprinternship-program/) | Freshman, Sophomore | 2-week tech internship prep program during January for first and second-year college women at CUNY. Stipend available |
-| Trail of Bits | All student | Work on cybersecurity related projects durign winter break. [Vulnerability Research](https://jobs.lever.co/trailofbits/5c836c41-04d0-4f16-8f7d-e3cfdc33191b) and [Open Source](https://jobs.lever.co/trailofbits/6a491883-3aaf-444e-a56c-3a0b37d6837e). Stipend available |
-| [Impact Labs Fellowship](https://www.impactlabs.io/fellowship) | Student & Non-student | 2-week program in NYC during winter break. Financial assistance available |
-
-<br/>
-
-## Externships (1-5 days)
+## Externships/Insight Series
+These are 1-5 day programs designed to help you get to know a company. Some are in-person, some includes stipend. Activities include webinasr, training, networking events, and hackathons. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
@@ -83,7 +74,17 @@ Will do my best to update frequently through the fall. Stars & PR appreciated!!
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
 | ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
 | [IBM Accelerate](https://careers.ibm.com/job/17568225/2023-ibm-accelerate-program-remote/?codes=IBM_CareerWebSite) | All student, sophomore preferred | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. |
-| Konrad Immersive Program | Student & Non-student | in-person at San Jose or remote program to learn [web development](https://www.konrad.com/careers/san-jose/web-development-program) or [QA](https://www.konrad.com/careers/san-jose/qa-program). Stipend available |
+
+<br/>
+
+## Winternship
+
+| Name | Year | Note | 
+| ---- | ---- | ---- |
+| ✨ [HRT Women in Trading Tech Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=4384272&req_id=301) | Freshman, Sophomore | 2-4 week paid winternship for women new to quant |
+| ✨ [CUNY Sprinternship](https://newyork.breakthroughtech.org/programs/sprinternship-program/) | Freshman, Sophomore | 2-week tech internship prep program during January for first and second-year college women at CUNY. Stipend available |
+| Trail of Bits | All student | Work on cybersecurity related projects durign winter break. [Vulnerability Research](https://jobs.lever.co/trailofbits/5c836c41-04d0-4f16-8f7d-e3cfdc33191b) and [Open Source](https://jobs.lever.co/trailofbits/6a491883-3aaf-444e-a56c-3a0b37d6837e). Stipend available |
+| [Impact Labs Fellowship](https://www.impactlabs.io/fellowship) | Student & Non-student | 2-week program in NYC during winter break. Financial assistance available |
 
 <br/>
 
