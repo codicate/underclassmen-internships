@@ -25,7 +25,7 @@ Will try my best to update frequently. Stars & PR appreciated!
 | Rockwell Engineering Pathways | Freshman, High School Junior & Senior | 8-10 week SW/HW internship in [Milwaukee WI](https://jobs.rockwellautomation.com/job/16761801/intern-rockwell-engineering-pathways-program-milwaukee-milwaukee-wi/) or [Mayfield Heights, OH](https://jobs.rockwellautomation.com/job/16561164/intern-rockwell-engineering-pathways-program-mayfield-mayfield-heights-oh/) |
 | EA Pathfinder | Freshman, Sophomore | Open to SWE, PM, etc. Search "pathfinder" on their [career site](https://ea.gr8people.com/jobs) |
 | [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman, Sophomore | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
-| ✨ [UberSTAR](https://www.uber.com/us/en/careers/teams/university/) | Freshmen, Sophomore | Historically open in September |
+| ✅ ✨ [UberSTAR](https://www.uber.com/us/en/careers/teams/university/) | Freshmen, Sophomore | Open in late summer to fall. Register for interest now |
 | [BAE Systems LEAP](https://jobs.baesystems.com/global/en/leap) | Freshman, Sophomore | Internship for SWE, MechE, ECE, etc. avaliable on their [career site](https://jobs.baesystems.com/global/en/leap). Go through each page and find your class year (search is kinda broken) |
 | ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery?sort=relevancy&3_5_3=478) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
 | [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2023/) | Sophomore | 11 week program for aspiring engineers |
