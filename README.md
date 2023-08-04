@@ -34,6 +34,7 @@ Will do my best to update frequently through the fall. Stars & PR appreciated!!
 | ✨ [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Open to CS, Business, and Finance |
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship |
+| ⛔ ✨ [Palantir Path](https://www.palantir.com/careers/students/path/) | Sophomore | Closed before August... Apply super early next year ig |
 | [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
 | [YC Work at a Startup](https://www.workatastartup.com/) | All students | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
 
