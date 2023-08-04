@@ -48,6 +48,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | ✨ [Uber career prep fellowship](https://www.uber.com/global/en/careers/list/118049/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship |
 | ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
 | ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
+| ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
 | [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | [IBM Extreme Blue Technical Leadership](https://www.ibm.com/employment/extremeblue/index.html) | All student | 12-week internship program for tech and business students |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Student & Non-student | Program for developers new to open-source contribution. Stipend available |
@@ -76,11 +77,10 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | Name | Year | Note |
 | ---- | ---- | ---- |
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
+| ✨ [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | 3-day paid educational program, some are in-person |
 | Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
-| ✨ [Twitter #EarlyBird](https://careers.twitter.com/en/early-career.html) | Sophomore | Five day virtual program. There are also #DevelopHer and #FirstFlight for juniors, and #TakeFlight for all students |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
-| ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
 | [IBM Accelerate](https://careers.ibm.com/job/17568225/2023-ibm-accelerate-program-remote/?codes=IBM_CareerWebSite) | All student, sophomore preferred | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. |
 
 <br/>
