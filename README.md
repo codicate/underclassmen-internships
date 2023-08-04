@@ -38,7 +38,6 @@ Will try my best to update frequently. Stars & PR appreciated!
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship |
 | ✨ [Twitter Academy](https://careers.twitter.com/en/early-career.html) | Sophomore | Did not open for summer 2023 |
 | [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
-| [Booz Allen Summer Games Internship](https://www.boozallen.com/careers/university-talent/booz-allen-summer-games.html) | All Student | 10-week paid program that simulates a real-world startup accelerator |
 | [YC Work at a Startup](https://www.workatastartup.com/) | All students | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
 | ✨ [Palantir Path](https://www.palantir.com/careers/students/path/) | Junior | For students new to CS with limited experiences. Historically open in August |
 
