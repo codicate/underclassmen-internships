@@ -101,7 +101,7 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
-| [Greylock Tech Fair](https://greylock.com/university-programs/) | All student | Prestigious tech fair for sillicon valley start-ups |
+| ⛔ [Greylock Tech Fair](https://greylock.com/university-programs/) | All student | Virtual career fair. Express interest for next year's (2024) [here](https://docs.google.com/forms/d/e/1FAIpQLSfCrRlWxEVcoZVDIwvk8_gxZlecQQJSGcTxwWGkgN4dJBam6Q/viewform) |
 | [CodePath](https://www.codepath.org/plan-your-codepath) | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.  |
 | [Forage](https://www.theforage.com/) | Student & Non-student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
 | [Impact Labs Summit](https://www.impactlabs.io/summit) | Student & Non-student | Professional networking event for students & professionals in NYC |
