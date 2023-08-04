@@ -6,6 +6,10 @@ Plus some resources for juniors & above, underrepresented students in CS, and no
 
 Will update all links in August 2023. Stars & PR appreciated!
 
+✅ = open
+
+⛔ = closed
+
 ✨ = diversity program
 
 <br/>
