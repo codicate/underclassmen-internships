@@ -67,11 +67,12 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | Name | Year | Note |
 | ---- | ---- | ---- |
 | ⛔ ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships. Closed late July... |
-| ✨ [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) | All student | Connecting students in tech to government offices. Website says open in October |
 | ✅ ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. Open year round I believe|
+| ✨ [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) | All student | Connecting students in tech to government offices. Website says open in October |
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
 | [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All student | Match students to various tech start-ups |
+| [YES Internships](https://www.internships.yesatyale.org/students) | All studnet | Match students to various tech start-ups |
 | [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
 
 <br/>
@@ -111,5 +112,5 @@ These are 1-4 week program during December/January. Activites includes hackathon
 | ---- | ---- | ---- |
 | ✅ [Greylock Tech Fair](https://greylock.com/university-programs/) | All student | Virtual career fair. Express interest for next year's (2024) [here](https://docs.google.com/forms/d/e/1FAIpQLSfCrRlWxEVcoZVDIwvk8_gxZlecQQJSGcTxwWGkgN4dJBam6Q/viewform) |
 | ✅ [CodePath](https://www.codepath.org/plan-your-codepath) | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.  |
-| ✅ [Forage](https://www.theforage.com/) | Student & Non-student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
-| ✅ Hacker News Who is Hiring? | Student & Non-student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". Start-ups are generally more open to Freshmen and Sophomores |
+| ✅ [Forage](https://www.theforage.com/) | All student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
+| ✅ Hacker News Who is Hiring? | All student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". Start-ups are generally more open to Freshmen and Sophomores |
