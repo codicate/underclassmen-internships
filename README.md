@@ -53,6 +53,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship with mentor from other companies |
 | ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
+| [IBM Accelerate](https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/) | Sophomore, Junior | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. Website says open in January |
 | ✅ [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | [IBM Extreme Blue Technical Leadership](https://www.ibm.com/employment/extremeblue/index.html) | All student | 12-week internship program for tech and business students |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Student & Non-student | Program for developers new to open-source contribution. Stipend available |
@@ -85,7 +86,6 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
-| [IBM Accelerate](https://careers.ibm.com/job/17568225/2023-ibm-accelerate-program-remote/?codes=IBM_CareerWebSite) | All student, sophomore preferred | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. |
 | [Impact Labs Summit](https://www.impactlabs.io/summit) | Student & Non-student | Professional networking event for students & professionals in NYC |
 
 <br/>
