@@ -99,7 +99,7 @@ These are 1-4 week program during December/January. Activites includes hackathon
 | ---- | ---- | ---- |
 | ✨ [HRT Women in Trading Tech Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=4384272&req_id=301) | Freshman, Sophomore | 2-4 week paid winternship for women new to quant |
 | ✨ [CUNY Sprinternship](https://newyork.breakthroughtech.org/programs/sprinternship-program/) | Freshman, Sophomore | 2-week tech internship prep program during January for first and second-year college women at CUNY. Stipend available |
-| ✨ [Virtu's Women's Winternship](https://ir.virtu.com/press-releases/press-release-details/2023/Virtu-Financial-Launches-Fifth-AnnualWomens-Winternship-Program-2023/default.aspx) | All student | 1-week educational program |
+| ✨ [Virtu Women's Winternship](https://ir.virtu.com/press-releases/press-release-details/2023/Virtu-Financial-Launches-Fifth-AnnualWomens-Winternship-Program-2023/default.aspx) | All student | 1-week educational program |
 | Trail of Bits | All student | Work on cybersecurity related projects durign winter break. [Vulnerability Research](https://jobs.lever.co/trailofbits/5c836c41-04d0-4f16-8f7d-e3cfdc33191b) and [Open Source](https://jobs.lever.co/trailofbits/6a491883-3aaf-444e-a56c-3a0b37d6837e). Stipend available |
 | [Impact Labs Fellowship](https://www.impactlabs.io/fellowship) | All student | 2-week program in NYC during winter break. Financial assistance available |
 
