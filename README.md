@@ -4,7 +4,7 @@ Curated list of internships/externships/fellowships exclusive for CS freshman an
 
 Will do my best to update frequently through the fall. Stars & PR appreciated!!
 
-Note: Open/close status is not updated daily. Check yourself to be sure!
+Note: Open/close status is not updated daily. Check yourself to be sure
 
 ✅ = open
 
@@ -53,7 +53,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship with mentor from other companies |
 | ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
-| [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
+| ✅ [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | [IBM Extreme Blue Technical Leadership](https://www.ibm.com/employment/extremeblue/index.html) | All student | 12-week internship program for tech and business students |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Student & Non-student | Program for developers new to open-source contribution. Stipend available |
 
@@ -61,7 +61,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 
 
 ## Internship-matching Fellowships
-Fellowships hosted by NPOs/VCs for matching students to internships. Usually not exclusive to underclassmen, but gives us a fair shot
+A type of fellowship hosted by NPOs/VCs for matching students to internships. Usually not exclusive to underclassmen, but gives us a fair shot
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
