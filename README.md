@@ -4,6 +4,8 @@ Curated list of internships/externships/fellowships exclusive for CS freshman an
 
 Will do my best to update frequently through the fall. Stars & PR appreciated!!
 
+Note: Open/close status is not updated daily. Check yourself to be sure!
+
 ✅ = open
 
 ⛔ = closed
