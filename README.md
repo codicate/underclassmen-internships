@@ -77,6 +77,7 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | [YES Internships](https://www.internships.yesatyale.org/students) | All studnet | Match students to various tech start-ups |
 | ⛔ ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships. Closed late July... |
 | [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
+| ✨ [Outreachy](https://www.outreachy.org/) | All Student | Match students to an opensource project |
 
 <br/>
 
