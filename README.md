@@ -57,6 +57,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [IBM Accelerate](https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/) | Sophomore, Junior | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. Website says open in January |
 | ✅ [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week open-source internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | ✅ [Year Up](https://www.yearup.org/students) | All student | Free hybrid training program. Get matched to an internship after training |
+| [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | 2-6 month self-paced program to work on open source research tools. Stipend available |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | Program for developers new to open-source contribution. Stipend available |
 
 <br/>
