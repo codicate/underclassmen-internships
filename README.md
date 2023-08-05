@@ -60,6 +60,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | Program for developers new to open-source contribution. Stipend available |
 | ✨ [Outreachy](https://www.outreachy.org/) | All Student | Match students to an open-source project. Stipend available |
 | [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | 2-6 month self-paced program to work on open source research tools. Stipend available |
+| [Jane Street Immersion Program](https://www.janestreet.com/join-jane-street/programs-and-events/jsip/) | Freshman | June - August software engineering fellowship at Jane Street NYC. Stipend available |
 
 <br/>
 
