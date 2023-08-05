@@ -68,13 +68,14 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
-| ⛔ ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships. Closed late July... |
-| ✅ ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. Open year round I believe|
+| ✅ [Neo Scholar](https://neo.com/scholars) | All student | Get matched to start-ups, plus mentorship & resources for building your own |
+| ✅ ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. Open year round I believe |
 | ✨ [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) | All student | Connecting students in tech to government offices. Website says open in October |
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
 | [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All student | Match students to various tech start-ups |
 | [YES Internships](https://www.internships.yesatyale.org/students) | All studnet | Match students to various tech start-ups |
+| ⛔ ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships. Closed late July... |
 | [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
 
 <br/>
