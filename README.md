@@ -71,13 +71,13 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | ✅ ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. Open year round I believe|
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
-| [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All Student | Match students to various tech start-ups |
+| [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All student | Match students to various tech start-ups |
 | [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
 
 <br/>
 
 ## Externships/Insight Series
-These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinasr, training, networking events, and hackathons. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
+These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinasr, training, networking event, and hackathon. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
@@ -87,16 +87,19 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
-| [Impact Labs Summit](https://www.impactlabs.io/summit) | All Student | Professional networking event for students & professionals in NYC |
+| [Impact Labs Summit](https://www.impactlabs.io/summit) | All student | Professional networking event for students & professionals in NYC |
 
 <br/>
 
 ## Winternship
 
+These are 1-4 week program during December/January. Activites includes hackathon, mentorship, networking event etc.
+
 | Name | Year | Note | 
 | ---- | ---- | ---- |
 | ✨ [HRT Women in Trading Tech Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=4384272&req_id=301) | Freshman, Sophomore | 2-4 week paid winternship for women new to quant |
 | ✨ [CUNY Sprinternship](https://newyork.breakthroughtech.org/programs/sprinternship-program/) | Freshman, Sophomore | 2-week tech internship prep program during January for first and second-year college women at CUNY. Stipend available |
+| ✨ [Virtu's Women's Winternship](https://ir.virtu.com/press-releases/press-release-details/2023/Virtu-Financial-Launches-Fifth-AnnualWomens-Winternship-Program-2023/default.aspx) | All student | 1-week educational program |
 | Trail of Bits | All student | Work on cybersecurity related projects durign winter break. [Vulnerability Research](https://jobs.lever.co/trailofbits/5c836c41-04d0-4f16-8f7d-e3cfdc33191b) and [Open Source](https://jobs.lever.co/trailofbits/6a491883-3aaf-444e-a56c-3a0b37d6837e). Stipend available |
 | [Impact Labs Fellowship](https://www.impactlabs.io/fellowship) | All student | 2-week program in NYC during winter break. Financial assistance available |
 
