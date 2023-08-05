@@ -34,7 +34,6 @@ Note: Open/close status is not updated daily. Check yourself to be sure!
 | ✨ [Zillow ZEAL](https://www.zillow.com/careers/internships/) | Sophomore | Remote 10 week program where you get to rotate among different SWE teams. Website says open in September |
 | ✨ [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Open to CS, Business, and Finance |
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
-| ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship |
 | ⛔ ✨ [Palantir Path](https://www.palantir.com/careers/students/path/) | Sophomore | Closed before August... Apply super early next year ig |
 | ✅ [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
 | [YC Work at a Startup](https://www.workatastartup.com/) | All students | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
@@ -51,6 +50,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | ✨ [Uber career prep fellowship](https://www.uber.com/global/en/careers/list/118049/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship |
 | ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
 | ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
+| ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship with mentor from other companies |
 | ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
 | [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | [IBM Extreme Blue Technical Leadership](https://www.ibm.com/employment/extremeblue/index.html) | All student | 12-week internship program for tech and business students |
