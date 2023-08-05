@@ -94,6 +94,7 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
 | [Impact Labs Summit](https://www.impactlabs.io/summit) | All student | Professional networking event for students & professionals in NYC |
+| ✨ [Jane Street INSIGHT](https://www.janestreet.com/join-jane-street/programs-and-events/insight/) | All student | Insight into Jane Street for women, transgender, and gender-expansive people |
 
 <br/>
 
