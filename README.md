@@ -37,7 +37,7 @@ Note: Open/close status is not updated daily. Check yourself to be sure
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
 | ⛔ ✨ [Palantir Path](https://www.palantir.com/careers/students/path/) | Sophomore | Closed before August... Apply super early next year ig |
 | ✅ [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
-| ✅ [YC Work at a Startup](https://www.workatastartup.com/) | All students | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
+| ✅ [YC Work at a Startup](https://www.workatastartup.com/) | All student | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
 
 <br/>
 
@@ -71,7 +71,7 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | ✅ ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. Open year round I believe|
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
-| [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All Students | Match students to various tech start-ups |
+| [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All Student | Match students to various tech start-ups |
 | [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
 
 <br/>
@@ -86,7 +86,7 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
-| [Impact Labs Summit](https://www.impactlabs.io/summit) | Student & Non-student | Professional networking event for students & professionals in NYC |
+| [Impact Labs Summit](https://www.impactlabs.io/summit) | All Student | Professional networking event for students & professionals in NYC |
 
 <br/>
 
