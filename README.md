@@ -29,7 +29,7 @@ Will do my best to update frequently through the fall. Stars & PR appreciated!!
 | [Dropbox Launch](https://jobs.dropbox.com/teams/emerging-talent#open-positions) | Sophomore | Website says will open in September |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/181045/) | Sophomore | SWE Internship in OCI and Cloud Platforms |
 | [Salesforce Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Sophomore | Pre-internship at Salesforce Tower, San Francisco |
-| ✨ [Zillow ZEAL](https://www.zillow.com/careers/internships/) | Sophomore | Remote 10 week program where you get to rotate among different SWE teams |
+| ✨ [Zillow ZEAL](https://www.zillow.com/careers/internships/) | Sophomore | Remote 10 week program where you get to rotate among different SWE teams. Website says open in September |
 | ✨ [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Open to CS, Business, and Finance |
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship |
