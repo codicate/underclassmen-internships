@@ -70,8 +70,8 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | ✅ ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. Open year round I believe|
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
-| [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All Students | Match student to various tech start-ups |
-| [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Match students to NYC tech start-ups, and also provide a shared housing community for the internship cohort |
+| [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All Students | Match students to various tech start-ups |
+| [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
 
 <br/>
 
