@@ -23,7 +23,7 @@ Note: Open/close status is not updated daily. Check yourself to be sure!
 | ✨ [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Historically open in mid September |
 | ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open on August 1st |
 | ✅ ✨ [Amazon Propel Program (APP)](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us) | Freshman, Sophomore | Diverse candidates automatically gets considered for APP, which is known to accept a lot of underclassmen (but not exclusive to us...) |
-| ✅ ✨ [UberSTAR](https://www.uber.com/us/en/careers/uberstar/?uclick_id=ee8e8699-8668-496d-ad5d-193d3c49006c) | Freshmen, Sophomore | Open in late summer to fall. [Register for interest now](https://flows.beamery.com/uber/stay-connected-with-uberstar!-7dyuntw1c?uclick_id=ee8e8699-8668-496d-ad5d-193d3c49006c) |
+| ✅ ✨ [UberSTAR](https://www.uber.com/us/en/careers/uberstar/) | Freshmen, Sophomore | Open in late summer to fall. [Register for interest now](https://flows.beamery.com/uber/stay-connected-with-uberstar!-7dyuntw1c) |
 | ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Not sure when will open |
 | ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
 | EA Pathfinder | Freshman, Sophomore | Open to SWE, PM, etc. Search "pathfinder" on their [career site](https://ea.gr8people.com/jobs) |
@@ -48,7 +48,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | ---- | ---- | ---- |
 | ✨ [Two Sigma College Mentor Connect](https://www.twosigma.com/community/academic-partnerships/undergraduate/college-mentor-connect/) | Freshman | Pair with an employee to contribute to open source projects (part-time) |
 | [Microsoft New Techs](https://newtechnologists.com/) | Freshman, Sophomore | 7-week hands-on training program. Mentorship from Microsoft senior staffs |
-| ✨ [Uber career prep fellowship](https://www.uber.com/us/en/careers/careerprep/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship. (Register for interest here](https://flows.beamery.com/uber/ucpinterestform2023?uclick_id=79002b96-919d-4207-bd39-bae92584c804) |
+| ✨ [Uber career prep fellowship](https://www.uber.com/us/en/careers/careerprep/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship. [Register for interest here](https://flows.beamery.com/uber/ucpinterestform2023) |
 | ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
 | ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship with mentor from other companies |
