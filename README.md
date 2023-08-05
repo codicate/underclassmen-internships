@@ -82,6 +82,7 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | Name | Year | Note |
 | ---- | ---- | ---- |
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
+| [Discover Citadel](https://www.citadel.com/careers/students/discover-citadel/) Freshman, Sophomore | 2-day event in-person in NYC during spring |
 | ✅ ✨ [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | 3-day paid educational program, some are in-person. [Express interest here](https://www.deshaw.com/forms/RjYzQTNDMTktQ0Q4NC00MDRGLUFDRkEtRkJDQjY5NzhCNzRE) |
 | Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
