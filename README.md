@@ -57,8 +57,9 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [IBM Accelerate](https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/) | Sophomore, Junior | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. Website says open in January |
 | ✅ [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week open-source internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | ✅ [Year Up](https://www.yearup.org/students) | All student | Free hybrid training program. Get matched to an internship after training |
-| [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | 2-6 month self-paced program to work on open source research tools. Stipend available |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | Program for developers new to open-source contribution. Stipend available |
+| ✨ [Outreachy](https://www.outreachy.org/) | All Student | Match students to an open-source project. Stipend available |
+| [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | 2-6 month self-paced program to work on open source research tools. Stipend available |
 
 <br/>
 
@@ -75,9 +76,8 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
 | [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All student | Match students to various tech start-ups |
 | [YES Internships](https://www.internships.yesatyale.org/students) | All studnet | Match students to various tech start-ups |
-| ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships. Closed late July... |
+| ⛔ ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships. Closed late July this year... |
 | [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
-| ✨ [Outreachy](https://www.outreachy.org/) | All Student | Match students to an opensource project |
 
 <br/>
 
