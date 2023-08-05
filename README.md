@@ -36,7 +36,7 @@ Note: Open/close status is not updated daily. Check yourself to be sure!
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
 | ⛔ ✨ [Palantir Path](https://www.palantir.com/careers/students/path/) | Sophomore | Closed before August... Apply super early next year ig |
 | ✅ [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
-| [YC Work at a Startup](https://www.workatastartup.com/) | All students | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
+| ✅ [YC Work at a Startup](https://www.workatastartup.com/) | All students | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
 
 <br/>
 
