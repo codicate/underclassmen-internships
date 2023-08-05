@@ -47,6 +47,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | Name | Year | Note |
 | ---- | ---- | ---- |
 | ✨ [Two Sigma College Mentor Connect](https://www.twosigma.com/community/academic-partnerships/undergraduate/college-mentor-connect/) | Freshman | Pair with an employee to contribute to open source projects (part-time) |
+| ✅ ✨ [HeadStart Fellowship](https://www.headstartfellowship.com/fellowship) | Freshman, Sophomore | Virtual part-time educational/mentorship program during fall/spring semester |
 | [Microsoft New Techs](https://newtechnologists.com/) | Freshman, Sophomore | 7-week hands-on training program. Mentorship from Microsoft senior staffs |
 | ✨ [Uber career prep fellowship](https://www.uber.com/us/en/careers/careerprep/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship. [Register for interest here](https://flows.beamery.com/uber/ucpinterestform2023) |
 | ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
@@ -56,7 +57,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [IBM Accelerate](https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/) | Sophomore, Junior | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. Website says open in January |
 | ✅ [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | [IBM Extreme Blue Technical Leadership](https://www.ibm.com/employment/extremeblue/index.html) | All student | 12-week internship program for tech and business students |
-| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Student & Non-student | Program for developers new to open-source contribution. Stipend available |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | Program for developers new to open-source contribution. Stipend available |
 
 <br/>
 
