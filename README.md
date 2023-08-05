@@ -65,7 +65,7 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
-| ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships |
+| ⛔ ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships. Closed before August... |
 | ✨ [Civic Digital Fellowship](https://www.codingitforward.com/fellowships) | All student | Connecting students in tech to government offices. Historically opens on January 4th |
 | ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies. Available for students in CS, Business, Journalism, etc. |
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
