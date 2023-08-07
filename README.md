@@ -23,7 +23,7 @@ Note: Open/close status is not updated daily. Check yourself to be sure
 | ✨ [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Historically open in mid September |
 | ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open on August 1st |
 | ✅ ✨ [Amazon Propel Program (APP)](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us) | Freshman, Sophomore | Diverse candidates automatically gets considered for APP, which is known to accept a lot of underclassmen (but not exclusive to us...) |
-| ✅ ✨ [UberSTAR](https://www.uber.com/us/en/careers/uberstar/) | Freshmen, Sophomore | Open in late summer to fall. [Register for interest now](https://flows.beamery.com/uber/stay-connected-with-uberstar!-7dyuntw1c) |
+| ✨ [UberSTAR](https://www.uber.com/us/en/careers/uberstar/) | Freshmen, Sophomore | Open in late summer to fall. [Register for interest now](https://flows.beamery.com/uber/stay-connected-with-uberstar!-7dyuntw1c) |
 | ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Not sure when will open |
 | ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
 | EA Pathfinder | Freshman, Sophomore | Open to SWE, PM, etc. Search "pathfinder" on their [career site](https://ea.gr8people.com/jobs) |
@@ -45,7 +45,8 @@ Note: Open/close status is not updated daily. Check yourself to be sure
 Fellowships can be internships, but also mentorship, training, or open source contribution programs. These are long in duraction (6-12 weeks)
 
 | Name | Year | Note |
-| ---- | ---- | ---- |
+| ---- | ---- | ---- 
+| ✨ [Jane Street Immersion Program](https://www.janestreet.com/join-jane-street/programs-and-events/jsip/) | Freshman | June - August software engineering fellowship at Jane Street NYC. Stipend available. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSdHxQcTsb1ddgre603FS2g8e2zxUiP4tsz0OLAl2gPE1NfXOg/viewform) |
 | ✨ [Two Sigma College Mentor Connect](https://www.twosigma.com/community/academic-partnerships/undergraduate/college-mentor-connect/) | Freshman | Pair with an employee to contribute to open source projects (part-time) |
 | ✅ ✨ [HeadStart Fellowship](https://www.headstartfellowship.com/fellowship) | Freshman, Sophomore | Virtual part-time educational/mentorship program during fall/spring semester |
 | [Microsoft New Techs](https://newtechnologists.com/) | Freshman, Sophomore | 7-week hands-on training program. Mentorship from Microsoft senior staffs |
@@ -60,7 +61,6 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | Program for developers new to open-source contribution. Stipend available |
 | ✨ [Outreachy](https://www.outreachy.org/) | All Student | Match students to an open-source project. Stipend available |
 | [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | 2-6 month self-paced program to work on open source research tools. Stipend available |
-| [Jane Street Immersion Program](https://www.janestreet.com/join-jane-street/programs-and-events/jsip/) | Freshman | June - August software engineering fellowship at Jane Street NYC. Stipend available |
 
 <br/>
 
@@ -87,17 +87,17 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
+| [Jane Street FTTP](https://www.janestreet.com/join-jane-street/programs-and-events/fttp/) | Freshman | Insight into Jane Street for tradingj. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSd6tT-vntV0HAJrfm18h1MS8mMDlZQB6zFGRaIv-Id2OpL9Pw/viewform) |
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
 | [Discover Citadel](https://www.citadel.com/careers/students/discover-citadel/) | Freshman, Sophomore | 2-day event in-person in NYC during spring |
-| ✅ ✨ [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | 3-day paid educational program, some are in-person. [Express interest here](https://www.deshaw.com/forms/RjYzQTNDMTktQ0Q4NC00MDRGLUFDRkEtRkJDQjY5NzhCNzRE) |
+| ✨ [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | 3-day paid educational program, some are in-person. [Express interest here](https://www.deshaw.com/forms/RjYzQTNDMTktQ0Q4NC00MDRGLUFDRkEtRkJDQjY5NzhCNzRE) |
 | Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
 | [Impact Labs Summit](https://www.impactlabs.io/summit) | All student | Professional networking event for students & professionals in NYC |
 | ✨ [Jane Street INSIGHT](https://www.janestreet.com/join-jane-street/programs-and-events/insight/) | All student | Insight into Jane Street for women, transgender, and gender-expansive people |
-| [Jane Street FOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/focus/) | All student | Insight into Jane Street |
+| ✨ [Jane Street FOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/focus/) | All student | Insight into Jane Street |
 | ✨ [Jane Street INFOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/) | All student | Insight into Jane Street for trading, software engineering, and strategy/product design |
-| [Jane Street FTTP](https://www.janestreet.com/join-jane-street/programs-and-events/fttp/) | Freshman | Insight into Jane Street for trading |
 
 <br/>
 
