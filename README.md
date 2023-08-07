@@ -60,6 +60,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | Program for developers new to open-source contribution. Stipend available |
 | ✨ [Outreachy](https://www.outreachy.org/) | All Student | Match students to an open-source project. Stipend available |
 | [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | 2-6 month self-paced program to work on open source research tools. Stipend available |
+| [Jane Street Immersion Program](https://www.janestreet.com/join-jane-street/programs-and-events/jsip/) | Freshman | June - August software engineering fellowship at Jane Street NYC. Stipend available |
 
 <br/>
 
@@ -93,6 +94,10 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
 | [Impact Labs Summit](https://www.impactlabs.io/summit) | All student | Professional networking event for students & professionals in NYC |
+| ✨ [Jane Street INSIGHT](https://www.janestreet.com/join-jane-street/programs-and-events/insight/) | All student | Insight into Jane Street for women, transgender, and gender-expansive people |
+| [Jane Street FOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/focus/) | All student | Insight into Jane Street |
+| ✨ [Jane Street INFOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/) | All student | Insight into Jane Street for trading, software engineering, and strategy/product design |
+| [Jane Street FTTP](https://www.janestreet.com/join-jane-street/programs-and-events/fttp/) | Freshman | Insight into Jane Street for trading |
 
 <br/>
 
