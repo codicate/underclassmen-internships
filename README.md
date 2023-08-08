@@ -20,9 +20,9 @@ Note: Open/close status is not updated daily. Check yourself to be sure
 | ---- | ---- | ---- |
 | Two Sigma Freshman Internship | Freshman | Historically open in September |
 | Rockwell Engineering Pathways | Freshman | 8-10 week SW/HW internship in [Milwaukee WI](https://jobs.rockwellautomation.com/job/16761801/intern-rockwell-engineering-pathways-program-milwaukee-milwaukee-wi/) or [Mayfield Heights, OH](https://jobs.rockwellautomation.com/job/16561164/intern-rockwell-engineering-pathways-program-mayfield-mayfield-heights-oh/) |
+| ✅ ✨ [Amazon Propel Program (APP)](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us) | Freshman, Sophomore | Diverse candidates automatically gets considered for APP, which is known to accept mostly underclassmen |
 | ✨ [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Historically open in mid September |
-| ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open on August 1st |
-| ✅ ✨ [Amazon Propel Program (APP)](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us) | Freshman, Sophomore | Diverse candidates automatically gets considered for APP, which is known to accept a lot of underclassmen (but not exclusive to us...) |
+| ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open in mid August |
 | ✨ [UberSTAR](https://www.uber.com/us/en/careers/uberstar/) | Freshmen, Sophomore | Open in late summer to fall. [Register for interest now](https://flows.beamery.com/uber/stay-connected-with-uberstar!-7dyuntw1c) |
 | ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Not sure when will open |
 | ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
