@@ -89,7 +89,6 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | Name | Year | Note |
 | ---- | ---- | ---- |
 | [Jane Street FTTP](https://www.janestreet.com/join-jane-street/programs-and-events/fttp/) | Freshman | Insight into Jane Street for tradingj. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSd6tT-vntV0HAJrfm18h1MS8mMDlZQB6zFGRaIv-Id2OpL9Pw/viewform) |
-| [Capital One First Gen Focus](https://www.capitalone.com/about/newsroom/first-gen-focus/) | Freshman | 
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
 | [Discover Citadel](https://www.citadel.com/careers/students/discover-citadel/) | Freshman, Sophomore | 2-day event in-person in NYC during spring |
 | ✨ [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | 3-day paid educational program, some are in-person. [Express interest here](https://www.deshaw.com/forms/RjYzQTNDMTktQ0Q4NC00MDRGLUFDRkEtRkJDQjY5NzhCNzRE) |
