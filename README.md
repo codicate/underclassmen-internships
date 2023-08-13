@@ -32,7 +32,6 @@ Note: Open/close status is not updated daily. Check yourself just to be sure
 | [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2023/) | Sophomore | 11 week program for aspiring engineers |
 | [Dropbox Launch](https://jobs.dropbox.com/teams/emerging-talent#open-positions) | Sophomore | Website says will open in September |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/181045/) | Sophomore | SWE Internship in OCI and Cloud Platforms |
-| [Salesforce Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Sophomore | Pre-internship at Salesforce Tower, San Francisco |
 | ✨ [Zillow ZEAL](https://www.zillow.com/careers/internships/) | Sophomore | Remote 10 week program where you get to rotate among different SWE teams. Website says open in September |
 | ✨ [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Open to CS, Business, and Finance |
 | ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
@@ -55,6 +54,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
 | ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
 | [IBM Accelerate](https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/) | Freshman, Sophomore | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. Website says open in January |
+| ✨ [Salesforce Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Sophomore | Pre-internship at Salesforce Tower, San Francisco |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship with mentor from other companies |
 | ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
 | [Federal Reserve Sophomore Career Exploration Program](https://www.newyorkfed.org/careers/student-programs-and-internships/sophomore-career-exploration-program) | Sophomore | 8-week exploration & mentorship program |
