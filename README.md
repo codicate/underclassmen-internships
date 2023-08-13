@@ -76,6 +76,7 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | ---- | ---- | ---- |
 | ✅ [Neo Scholar](https://neo.com/scholars) | All student | Get matched to start-ups, plus mentorship & resources for building your own |
 | ✅ ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. Open year round I believe |
+| ✅ ✨ [Hack Diversity](https://www.hackdiversity.com/) |	All Student |	Match [NYC](https://www.hackdiversity.com/how-to-apply-nyc) and [Boston](https://www.hackdiversity.com/how-to-apply-boston) students to internships. Provides year-round technical training |
 | ✨ [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) | All student | Connecting students in tech to government offices. Website says open in October |
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
@@ -92,17 +93,17 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | Name | Year | Note |
 | ---- | ---- | ---- |
 | [Jane Street FTTP](https://www.janestreet.com/join-jane-street/programs-and-events/fttp/) | Freshman | Insight into Jane Street for tradingj. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSd6tT-vntV0HAJrfm18h1MS8mMDlZQB6zFGRaIv-Id2OpL9Pw/viewform) |
+| ✨ [Bloomberg First Year Insights](https://www.bloomberg.com/company/career/first-year-insights/) | Freshman | Series of virtual workshops related to finance/tech |
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
+| ✅ [SIG Discovery Day](https://dayinthelife.sig.com/early-talent/) | Freshman, Sophomore | Spring virtual event for insight into career at SIG |
+| [Jane Street SEE](https://www.janestreet.com/join-jane-street/programs-and-events/see/) | Freshman, Sophomore | Insight into CS and Math in Finance. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSfxZvW2CpqwepLhBLnO9UJemsUTNA8ulU-oYXb5uPJ9vKT1pw/viewform) |
 | [Discover Citadel](https://www.citadel.com/careers/students/discover-citadel/) | Freshman, Sophomore | 2-day event in-person in NYC during spring |
-| ✨ [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | 3-day paid educational program, some are in-person. [Express interest here](https://www.deshaw.com/forms/RjYzQTNDMTktQ0Q4NC00MDRGLUFDRkEtRkJDQjY5NzhCNzRE) |
+| ✨ [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | 3-day paid educational program, some are in-person. Express interest [here](https://www.deshaw.com/forms/RjYzQTNDMTktQ0Q4NC00MDRGLUFDRkEtRkJDQjY5NzhCNzRE) |
 | Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
 | [Nordstrom Nspire Program](https://careers.nordstrom.com/pdfs/Nordstrom_Nspire_Program.pdf) | Sophomore | 2-week hybrid program in August |
 | [Impact Labs Summit](https://www.impactlabs.io/summit) | All student | Professional networking event for students & professionals in NYC |
-| ✨ [Jane Street INSIGHT](https://www.janestreet.com/join-jane-street/programs-and-events/insight/) | All student | Insight into Jane Street for women, transgender, and gender-expansive people |
-| ✨ [Jane Street FOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/focus/) | All student | Insight into Jane Street |
-| ✨ [Jane Street INFOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/) | All student | Insight into Jane Street for trading, software engineering, and strategy/product design |
 
 <br/>
 
