@@ -93,6 +93,7 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | Name | Year | Note |
 | ---- | ---- | ---- |
 | [Jane Street FTTP](https://www.janestreet.com/join-jane-street/programs-and-events/fttp/) | Freshman | Insight into Jane Street for tradingj. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSd6tT-vntV0HAJrfm18h1MS8mMDlZQB6zFGRaIv-Id2OpL9Pw/viewform) |
+| ✨ [Bloomberg First Year Insights](https://www.bloomberg.com/company/career/first-year-insights/) | Freshman | Series of virtual workshops related to finance/tech |
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
 | ✅ [SIG Discovery Day](https://dayinthelife.sig.com/early-talent/) | Freshman, Sophomore | Spring virtual event for insight into career at SIG |
 | [Jane Street SEE](https://www.janestreet.com/join-jane-street/programs-and-events/see/) | Freshman, Sophomore | Insight into CS and Math in Finance. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSfxZvW2CpqwepLhBLnO9UJemsUTNA8ulU-oYXb5uPJ9vKT1pw/viewform) |
