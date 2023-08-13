@@ -27,7 +27,7 @@ Note: Open/close status is not updated daily. Check yourself just to be sure
 | ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Not sure when will open |
 | ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
 | ✨ [EA Pathfinder](https://ea.gr8people.com/jobs?page=1&inp1377=2&keyword=pathfinder) | Freshman, Sophomore | 12-week internship open to SWE, PM, etc. |
-| [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman, Sophomore | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
+| ✨ [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman, Sophomore | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
 | ⛔ ✨ [Capital One Technology Early Internship](https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2024/31238/52660888800?messenger=email) | Freshman, Sophomore | For beginners. Offers a bootcamp and internship project experience with Capital One |
 | [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2023/) | Sophomore | 11 week program for aspiring engineers |
 | [Dropbox Launch](https://jobs.dropbox.com/teams/emerging-talent#open-positions) | Sophomore | Website says will open in September |
@@ -54,10 +54,10 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | ✨ [Uber career prep fellowship](https://www.uber.com/us/en/careers/careerprep/) | Freshman, Sophomore | 7-month SWE learning & mentoring program. Pathway for full-time internship. [Register for interest here](https://flows.beamery.com/uber/ucpinterestform2023) |
 | ✨ [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | 6-week virtual summer educational program. Pathway to full-time internship |
 | ✨ [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | Unpaid virtual summer training program |
+| [IBM Accelerate](https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/) | Freshman, Sophomore | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. Website says open in January |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship with mentor from other companies |
 | ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
 | [Federal Reserve Sophomore Career Exploration Program](https://www.newyorkfed.org/careers/student-programs-and-internships/sophomore-career-exploration-program) | Sophomore | 8-week exploration & mentorship program |
-| [IBM Accelerate](https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/) | Sophomore | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. Website says open in January |
 | ✅ [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week open-source internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | ✅ [Year Up](https://www.yearup.org/students) | All student | Free hybrid training program. Get matched to an internship after training |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | Program for developers new to open-source contribution. Stipend available |
