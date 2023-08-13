@@ -2,6 +2,8 @@
 
 Curated list of internships/externships/fellowships **exclusive** for CS freshman and sophomore
 
+Are you a upperclassman? Check out this [list of resources for all class year](https://github.com/Julian048/CS-Programs-Fellowships-Insights) by @Julian048
+
 Will do my best to update frequently through the fall. Stars & PR appreciated!!
 
 Note: Open/close status is not updated daily. Check yourself just to be sure
