@@ -1,18 +1,54 @@
-# Underclassmen Internships 💥💥
+<h1 align="center">
+💥💥 Underclassmen Internships 💥💥
+</h1>
 
-Curated list of internships/externships/fellowships **exclusive** for CS freshman and sophomore
+<p align="center">
+  Curated list of internships/externships/fellowships <b>exclusive</b> for CS freshman and sophomore
+</p>
 
-Are you a upperclassman? Check out this [list of resources for all class year](https://github.com/Julian048/CS-Programs-Fellowships-Insights) by @Julian048
+<p align="center">
+ Are you a upperclassman? Check out this <a href="https://github.com/Julian048/CS-Programs-Fellowships-Insights">list of opportunities for all class year</a> by @Julian048
+</p>
+ 
+<p align="center">
+  Will do my best to update frequently through the fall. Stars & PR appreciated!!
+</p>
 
-Will do my best to update frequently through the fall. Stars & PR appreciated!!
+<p align="center">
+  <sub>Note: open/close status is not updated daily. Check yourself just to be sure</sub>
+</p>
 
-Note: Open/close status is not updated daily. Check yourself just to be sure
+<p align="center">
+	✅ open
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	⛔ closed
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	✨ diversity program
+</p>
 
-✅ = open
 
-⛔ = closed
 
-✨ = diversity program
+<br/>
+
+
+## Contents
+
+- [Useful Lists](#useful-lists)
+- [Internships](#internships)
+- [Fellowships](#fellowships)
+- [Internship-matching Fellowships](#internship-matching-fellowships)
+- [Externships/Insight Series](#externshipsinsight-series)
+- [Winternship](#winternship)
+- [Special Programs & Resources](#special-programs--resources)
+
+<br/>
+
+## Useful Lists
+
+- [List of Opportunities in Tech for All Class Years](https://github.com/Julian048/CS-Programs-Fellowships-Insights)
+- [List of Summer 2024 Tech Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
+- [List of Open-Source Fellowships](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
+- [List of Undergraduate Research Internships](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 
 <br/>
 
@@ -129,3 +165,5 @@ These are 1-4 week program during December/January. Activites includes hackathon
 | ✅ [CodePath](https://www.codepath.org/plan-your-codepath) | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.  |
 | ✅ [Forage](https://www.theforage.com/) | All student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
 | ✅ Hacker News Who is Hiring? | All student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". Start-ups are generally more open to Freshmen and Sophomores |
+
+<br/>
