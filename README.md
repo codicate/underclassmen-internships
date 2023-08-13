@@ -21,11 +21,11 @@ Note: Open/close status is not updated daily. Check yourself just to be sure
 | Two Sigma Freshman Internship | Freshman | Historically open in September |
 | Rockwell Engineering Pathways | Freshman | 8-10 week SW/HW internship in [Milwaukee WI](https://jobs.rockwellautomation.com/job/16761801/intern-rockwell-engineering-pathways-program-milwaukee-milwaukee-wi/) or [Mayfield Heights, OH](https://jobs.rockwellautomation.com/job/16561164/intern-rockwell-engineering-pathways-program-mayfield-mayfield-heights-oh/) |
 | ✅ ✨ [Amazon Propel Program (APP)](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us) | Freshman, Sophomore | Diverse candidates automatically gets considered for APP, which is known to accept mostly underclassmen |
+| ✅ ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
 | ✨ [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Historically open in mid September |
 | ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open in mid August |
 | ✨ [UberSTAR](https://www.uber.com/us/en/careers/uberstar/) | Freshmen, Sophomore | Open in late summer to fall. [Register for interest now](https://flows.beamery.com/uber/stay-connected-with-uberstar!-7dyuntw1c) |
 | ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Not sure when will open |
-| ✅ ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
 | ✨ [EA Pathfinder](https://ea.gr8people.com/jobs?page=1&inp1377=2&keyword=pathfinder) | Freshman, Sophomore | 12-week internship open to SWE, PM, etc. |
 | ✨ [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman, Sophomore | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
 | ⛔ ✨ [Capital One Technology Early Internship](https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2024/31238/52660888800?messenger=email) | Freshman, Sophomore | For beginners. Offers a bootcamp and internship project experience with Capital One |
