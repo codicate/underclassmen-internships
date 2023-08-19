@@ -96,6 +96,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | ✨ [SEO Tech Developer](https://tech.seo-usa.org/) | Sophomore | Preparation for interviewing for internships. Stipend available |
 | ✨ [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | Paid virtual internship with mentor from other companies |
 | ✨ [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Career development & networking program. Pathway to full-time internship |
+| ✨ [Wells Fargo Discovery Fellowship](https://www.wellsfargojobs.com/en/jobs/r-298363/2024-wells-fargo-sophomore-discovery-fellowship-program/) | Sophomore | Various offices to participate in a rotational experience. Pathway to full-time internship |
 | [Federal Reserve Sophomore Career Exploration Program](https://www.newyorkfed.org/careers/student-programs-and-internships/sophomore-career-exploration-program) | Sophomore | 8-week exploration & mentorship program |
 | ✅ [MLH Fellowship](https://fellowship.mlh.io/) | All student | Remote 12-week open-source internship in SWE, SRE, and Web3. Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | ✅ [Year Up](https://www.yearup.org/students) | All student | Free hybrid training program. Get matched to an internship after training |
