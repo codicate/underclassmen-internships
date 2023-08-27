@@ -56,8 +56,8 @@
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
-| Two Sigma Freshman Internship | Freshman | Historically open in September |
-| Rockwell Engineering Pathways | Freshman | 8-10 week SW/HW internship in [Milwaukee WI](https://jobs.rockwellautomation.com/job/16761801/intern-rockwell-engineering-pathways-program-milwaukee-milwaukee-wi/) or [Mayfield Heights, OH](https://jobs.rockwellautomation.com/job/16561164/intern-rockwell-engineering-pathways-program-mayfield-mayfield-heights-oh/) |
+| [Two Sigma Freshman Internship](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1) | Freshman | Historically open in September |
+| [Rockwell Engineering Pathways](https://jobs.rockwellautomation.com/?keyword=pathways) | Freshman | 8-10 week SW/HW internship in [Milwaukee WI](https://jobs.rockwellautomation.com/job/16761801/intern-rockwell-engineering-pathways-program-milwaukee-milwaukee-wi/) or [Mayfield Heights, OH](https://jobs.rockwellautomation.com/job/16561164/intern-rockwell-engineering-pathways-program-mayfield-mayfield-heights-oh/) |
 | ✅ ✨ [Amazon Propel Program (APP)](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us) | Freshman, Sophomore | Diverse candidates automatically gets considered for APP, which is known to accept mostly underclassmen |
 | ✅ ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
 | ✨ [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Historically open in mid September |
@@ -68,7 +68,7 @@
 | ✨ [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman, Sophomore | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
 | ⛔ ✨ [Capital One Technology Early Internship](https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2024/31238/52660888800?messenger=email) | Freshman, Sophomore | For beginners. Offers a bootcamp and internship project experience with Capital One |
 | ✅ [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211120/?keyword=sophomore&mode=location) | Sophomore | SWE Internship in OCI and Cloud Platforms |
-| [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2023/) | Sophomore | 11 week program for aspiring engineers |
+| ✅ [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2024/) | Sophomore | 11 week program for aspiring engineers |
 | [Dropbox Launch](https://jobs.dropbox.com/teams/emerging-talent#open-positions) | Sophomore | Website says will open in September |
 | ✨ [Zillow ZEAL](https://www.zillow.com/careers/internships/) | Sophomore | Remote 10 week program where you get to rotate among different SWE teams. Website says open in September |
 | ✨ [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Open to CS, Business, and Finance |
@@ -117,7 +117,7 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | ✅ ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. Open year round I believe |
 | ✅ ✨ [Hack Diversity](https://www.hackdiversity.com/) |	All Student |	Match [NYC](https://www.hackdiversity.com/how-to-apply-nyc) and [Boston](https://www.hackdiversity.com/how-to-apply-boston) students to internships. Provides year-round technical training |
 | ✨ [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) | All student | Connecting students in tech to government offices. Website says open in October |
-| [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups |
+| [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups. Register interest [here](https://8vc.typeform.com/fellowinterest?typeform-source=www.8vc.com) |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
 | [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All student | Match students to various tech start-ups |
 | [YES Internships](https://www.internships.yesatyale.org/students) | All studnet | Match students to various tech start-ups |
@@ -136,9 +136,9 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
 | ✅ [SIG Discovery Day](https://dayinthelife.sig.com/early-talent/) | Freshman, Sophomore | Spring virtual event for insight into career at SIG |
 | [Jane Street SEE](https://www.janestreet.com/join-jane-street/programs-and-events/see/) | Freshman, Sophomore | Insight into CS and Math in Finance. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSfxZvW2CpqwepLhBLnO9UJemsUTNA8ulU-oYXb5uPJ9vKT1pw/viewform) |
-| [Discover Citadel](https://www.citadel.com/careers/students/discover-citadel/) | Freshman, Sophomore | 2-day event in-person in NYC during spring |
+| [Discover Citadel](https://www.citadel.com/careers/students/discover-citadel/) | Freshman, Sophomore | 2-day event in-person in NYC during spring. Open in November |
 | ✨ [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | 3-day paid educational program, some are in-person. Express interest [here](https://www.deshaw.com/forms/RjYzQTNDMTktQ0Q4NC00MDRGLUFDRkEtRkJDQjY5NzhCNzRE) |
-| Five Rings SDE Intensive Program | Sophomore | 5-day paid program in NYC. Search "intensive" on their [career site](https://fiverings.avature.net/careers) |
+| [Five Rings SDE Intensive Program](https://fiverings.avature.net/careers/SearchJobs/intensive?listFilterMode=1&folderRecordsPerPage=25&) | Sophomore | 5-day paid program in NYC |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
 | [Nordstrom Nspire Program](https://careers.nordstrom.com/pdfs/Nordstrom_Nspire_Program.pdf) | Sophomore | 2-week hybrid program in August |
