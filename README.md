@@ -120,18 +120,18 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups. Register interest [here](https://8vc.typeform.com/fellowinterest?typeform-source=www.8vc.com) |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
 | [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All student | Match students to various tech start-ups |
-| [YES Internships](https://www.internships.yesatyale.org/students) | All studnet | Match students to various tech start-ups |
+| [YES Internships](https://www.internships.yesatyale.org/students) | All student | Match students to various tech start-ups |
 | ⛔ ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships. Closed late July this year... |
 | [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
 
 <br/>
 
 ## Externships/Insight Series
-These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinasr, training, networking event, and hackathon. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
+These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinars, training, networking event, and hackathon. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
-| [Jane Street FTTP](https://www.janestreet.com/join-jane-street/programs-and-events/fttp/) | Freshman | Insight into Jane Street for tradingj. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSd6tT-vntV0HAJrfm18h1MS8mMDlZQB6zFGRaIv-Id2OpL9Pw/viewform) |
+| ✅ [Jane Street FTTP](https://www.janestreet.com/join-jane-street/programs-and-events/fttp/) | Freshman | Insight into Jane Street for trading. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSd6tT-vntV0HAJrfm18h1MS8mMDlZQB6zFGRaIv-Id2OpL9Pw/viewform) |
 | ✨ [Bloomberg First Year Insights](https://www.bloomberg.com/company/career/first-year-insights/) | Freshman | Series of virtual workshops related to finance/tech |
 | ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
 | ✅ [SIG Discovery Day](https://dayinthelife.sig.com/early-talent/) | Freshman, Sophomore | Spring virtual event for insight into career at SIG |
@@ -140,6 +140,7 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | ✨ [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | 3-day paid educational program, some are in-person. Express interest [here](https://www.deshaw.com/forms/RjYzQTNDMTktQ0Q4NC00MDRGLUFDRkEtRkJDQjY5NzhCNzRE) |
 | [Five Rings SDE Intensive Program](https://fiverings.avature.net/careers/SearchJobs/intensive?listFilterMode=1&folderRecordsPerPage=25&) | Sophomore | 5-day paid program in NYC |
 | ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
+| ✅ ✨ [Jane Street In Focus](https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/) | All Student | Insight into Jane Street trading, engineering, and strategy. |
 | ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
 | [Nordstrom Nspire Program](https://careers.nordstrom.com/pdfs/Nordstrom_Nspire_Program.pdf) | Sophomore | 2-week hybrid program in August |
 | [Impact Labs Summit](https://www.impactlabs.io/summit) | All student | Professional networking event for students & professionals in NYC |
