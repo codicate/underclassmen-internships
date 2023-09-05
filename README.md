@@ -54,28 +54,28 @@
 
 ## Internships
 
-| Name | Year | Note |
-| ---- | ---- | ---- |
-| [Two Sigma Freshman Internship](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1) | Freshman | Historically open in September |
-| [Rockwell Engineering Pathways](https://jobs.rockwellautomation.com/?keyword=pathways) | Freshman | 8-10 week SW/HW internship in [Milwaukee WI](https://jobs.rockwellautomation.com/job/16761801/intern-rockwell-engineering-pathways-program-milwaukee-milwaukee-wi/) or [Mayfield Heights, OH](https://jobs.rockwellautomation.com/job/16561164/intern-rockwell-engineering-pathways-program-mayfield-mayfield-heights-oh/) |
-| ✅ ✨ [Amazon Propel Program (APP)](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us) | Freshman, Sophomore | Diverse candidates automatically gets considered for APP, which is known to accept mostly underclassmen |
-| ✅ ✨ [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | Internship for variety of majors, with paired mentorship |
-| ✨ [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Applications open October 2nd. Click (http://goo.gle/swe-step-newsletter)[here] to join the newsletter! |
-| ✨ [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | Historically open in mid August |
-| ✨ [UberSTAR](https://www.uber.com/us/en/careers/uberstar/) | Freshmen, Sophomore | Open in late summer to fall. [Register for interest now](https://flows.beamery.com/uber/stay-connected-with-uberstar!-7dyuntw1c) |
-| ✨ [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | Not sure when will open |
-| ✨ [EA Pathfinder](https://ea.gr8people.com/jobs?page=1&inp1377=2&keyword=pathfinder) | Freshman, Sophomore | 12-week internship open to SWE, PM, etc. |
-| ✨ [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman, Sophomore | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
-| ⛔ ✨ [Capital One Technology Early Internship](https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2024/31238/52660888800?messenger=email) | Freshman, Sophomore | For beginners. Offers a bootcamp and internship project experience with Capital One |
-| ✅ [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211120/?keyword=sophomore&mode=location) | Sophomore | SWE Internship in OCI and Cloud Platforms |
-| ✅ [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2024/) | Sophomore | 11 week program for aspiring engineers |
-| [Dropbox Launch](https://jobs.dropbox.com/teams/emerging-talent#open-positions) | Sophomore | Website says will open in September |
-| ✨ [Zillow ZEAL](https://www.zillow.com/careers/internships/) | Sophomore | Remote 10 week program where you get to rotate among different SWE teams. Website says open in September |
-| ✨ [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Open to CS, Business, and Finance |
-| ✨ [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | Historically open in August |
-| ⛔ ✨ [Palantir Path](https://www.palantir.com/careers/students/path/) | Sophomore | Closed before August... Apply super early next year ig |
-| ✅ [NASA](https://intern.nasa.gov/) | All student | Many job postings specify that Freshman and Sophomore are accepted | 
-| ✅ [YC Work at a Startup](https://www.workatastartup.com/) | All student | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
+| Name | Year | Status | Note |
+| ---- | ---- | ---- | ---- |
+| [Two Sigma Freshman Internship](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1) | Freshman | Open in September | |
+| [Rockwell Engineering Pathways](https://jobs.rockwellautomation.com/?keyword=pathways) | Freshman | ? | 8-10 week SW/HW internship |
+| [Amazon Propel Program (APP)](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us) | Freshman, Sophomore | ✅ Open | Diverse candidates automatically gets considered for APP, which is known to accept mostly underclassmen |
+| [Deloitte Discovery Intern](https://apply.deloitte.com/careers/SearchJobs/discovery%20intern?sort=relevancy) | Freshman, Sophomore | ✅ Open | Internship for variety of majors, with paired mentorship |
+| [Google STEP](https://buildyourfuture.withgoogle.com/programs/step) | Freshman, Sophomore | Open October 2nd | Click (http://goo.gle/swe-step-newsletter)[here] to join the newsletter! |
+| [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Freshman, Sophomore | ? | |
+| [UberSTAR](https://www.uber.com/us/en/careers/uberstar/) | Freshmen, Sophomore | Open late summer | [Register for interest now](https://flows.beamery.com/uber/stay-connected-with-uberstar!-7dyuntw1c) |
+| [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | ? | |
+| [EA Pathfinder](https://ea.gr8people.com/jobs?page=1&inp1377=2&keyword=pathfinder) | Freshman, Sophomore | ? | 12-week internship open to SWE, PM, etc. |
+| [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman, Sophomore | ? | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
+| [Capital One Technology Early Internship](https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2024/31238/52660888800?messenger=email) | Freshman, Sophomore | ⛔ Closed | For beginners. Offers a bootcamp and internship project experience with Capital One |
+| [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211120/?keyword=sophomore&mode=location) | Sophomore | ✅ Open | SWE Internship in OCI and Cloud Platforms |
+| [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2024/) | Sophomore | ✅ Open | 11 week program for aspiring engineers |
+| [Dropbox Launch](https://jobs.dropbox.com/teams/emerging-talent#open-positions) | Sophomore | Open in September | ? |
+| [Zillow ZEAL](https://www.zillow.com/careers/internships/) | Sophomore | Open in September | Remote 10 week program where you get to rotate among different SWE teams. Website says open in September |
+| [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | ? | Open to CS, Business, and Finance |
+| [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | ? | |
+| [Palantir Path](https://www.palantir.com/careers/students/path/) | Sophomore | ⛔ Closed | |
+| [NASA](https://intern.nasa.gov/) | All student | ✅ Open | Many job postings specify that Freshman and Sophomore are accepted | 
+| [YC Work at a Startup](https://www.workatastartup.com/) | All student | ✅ Open | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
 
 <br/>
 
