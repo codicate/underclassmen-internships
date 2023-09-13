@@ -65,8 +65,8 @@
 | [Credit Suisse Advance](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | ? | Open to CS, Business, and Finance |
 | [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/) | Sophomore | ? | |
 | [Palantir Path](https://www.palantir.com/careers/students/path/) | Sophomore | ⛔ Closed | |
-| [NASA](https://intern.nasa.gov/) | All student | ✅ Open | Many job postings specify that Freshman and Sophomore are accepted | 
-| [YC Work at a Startup](https://www.workatastartup.com/) | All student | ✅ Open | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
+| [NASA](https://intern.nasa.gov/) | All student | ✅ Open year-round | Many job postings specify that Freshman and Sophomore are accepted | 
+| [YC Work at a Startup](https://www.workatastartup.com/) | All student | ✅ Open year-round | One application for all YC funded start-ups. Start-ups are generally more open to Freshmen and Sophomores |
 
 <br/>
 
@@ -91,8 +91,8 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | ? | Paid virtual internship with mentor from other companies |
 | [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | ? | Career development & networking program. Pathway to full-time internship |
 | [Federal Reserve Sophomore Career Exploration Program](https://www.newyorkfed.org/careers/student-programs-and-internships/sophomore-career-exploration-program) | Sophomore | ? | 8-week exploration & mentorship program |
-| [MLH Fellowship](https://fellowship.mlh.io/) | All student | ✅ Open | Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
-| [Year Up](https://www.yearup.org/students) | All student | ✅ Open | Free hybrid training program. Get matched to an internship after training |
+| [MLH Fellowship](https://fellowship.mlh.io/) | All student | ✅ Open year-round | Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
+| [Year Up](https://www.yearup.org/students) | All student | ✅ Open year-round | Free hybrid training program. Get matched to an internship after training |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | ? | Program for developers new to open-source contribution. Stipend available |
 | [Outreachy](https://www.outreachy.org/) | All Student | ? | Match students to an open-source project. Stipend available |
 | [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | ? | 2-6 month self-paced program to work on open source research tools. Stipend available |
@@ -103,39 +103,38 @@ Fellowships can be internships, but also mentorship, training, or open source co
 ## Internship-matching Fellowships
 A type of fellowship hosted by NPOs/VCs for matching students to internships. Usually not exclusive to underclassmen, but gives us a fair shot
 
-| Name | Year | Note |
-| ---- | ---- | ---- |
-| ✅ [Neo Scholar](https://neo.com/scholars) | All student | Get matched to start-ups, plus mentorship & resources for building your own |
-| ✅ ✨ [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. Open year round I believe |
-| ✅ ✨ [Hack Diversity](https://www.hackdiversity.com/) |	All Student |	Match [NYC](https://www.hackdiversity.com/how-to-apply-nyc) and [Boston](https://www.hackdiversity.com/how-to-apply-boston) students to internships. Provides year-round technical training |
-| ✨ [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) | All student | Connecting students in tech to government offices. Website says open in October |
-| [8VC Fellowship](https://www.8vc.com/fellowships) | All student | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups. Register interest [here](https://8vc.typeform.com/fellowinterest?typeform-source=www.8vc.com) |
-| [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | Match students to various tech start-ups |
-| [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All student | Match students to various tech start-ups |
-| [YES Internships](https://www.internships.yesatyale.org/students) | All student | Match students to various tech start-ups |
-| ⛔ ✨ [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | Match Black & Latinx students to summer internships. Closed late July this year... |
-| [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
+| Name | Year | Status/Open Date | Note |
+| ---- | ---- | ---- | ---- |
+| [Neo Scholar](https://neo.com/scholars) | All student | ✅ Open | Get matched to start-ups, plus mentorship & resources for building your own |
+| [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | ✅ Open year-round | All student | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. |
+| [Hack Diversity](https://www.hackdiversity.com/) |	All Student | ? |	Match [NYC](https://www.hackdiversity.com/how-to-apply-nyc) and [Boston](https://www.hackdiversity.com/how-to-apply-boston) students to internships. Provides year-round technical training |
+| [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) | All student | October | Connecting students in tech to government offices |
+| [8VC Fellowship](https://www.8vc.com/fellowships) | All student | ? | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups. Register interest [here](https://8vc.typeform.com/fellowinterest?typeform-source=www.8vc.com) |
+| [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | ? | Match students to various tech start-ups |
+| [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All student | ? | Match students to various tech start-ups |
+| [YES Internships](https://www.internships.yesatyale.org/students) | All student | ? | Match students to various tech start-ups |
+| [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | ⛔ Closed | Match Black & Latinx students to summer internships |
+| [HackNY Fellowship](https://hackny.org/fellows-program) | Sophomore and up | ? | Provides a shared housing community for NYC interns. Financial aid avaliable. Match a few of the applicants to NYC tech start-ups too |
 
 <br/>
 
 ## Externships/Insight Series
 These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinars, training, networking event, and hackathon. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
 
-| Name | Year | Note |
-| ---- | ---- | ---- |
-| ✅ [Jane Street FTTP](https://www.janestreet.com/join-jane-street/programs-and-events/fttp/) | Freshman | Insight into Jane Street for trading. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSd6tT-vntV0HAJrfm18h1MS8mMDlZQB6zFGRaIv-Id2OpL9Pw/viewform) |
-| ✨ [Bloomberg First Year Insights](https://www.bloomberg.com/company/career/first-year-insights/) | Freshman | Series of virtual workshops related to finance/tech |
-| ✨ [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | Spring virtual event series |
-| ✅ [SIG Discovery Day](https://dayinthelife.sig.com/early-talent/) | Freshman, Sophomore | Spring virtual event for insight into career at SIG |
-| [Jane Street SEE](https://www.janestreet.com/join-jane-street/programs-and-events/see/) | Freshman, Sophomore | Insight into CS and Math in Finance. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSfxZvW2CpqwepLhBLnO9UJemsUTNA8ulU-oYXb5uPJ9vKT1pw/viewform) |
-| [Discover Citadel](https://www.citadel.com/careers/students/discover-citadel/) | Freshman, Sophomore | 2-day event in-person in NYC during spring. Open in November |
-| ✨ [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | 3-day paid educational program, some are in-person. Express interest [here](https://www.deshaw.com/forms/RjYzQTNDMTktQ0Q4NC00MDRGLUFDRkEtRkJDQjY5NzhCNzRE) |
-| [Five Rings SDE Intensive Program](https://fiverings.avature.net/careers/SearchJobs/intensive?listFilterMode=1&folderRecordsPerPage=25&) | Sophomore | 5-day paid program in NYC |
-| ✨ [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | Virtual educational program |
-| ✅ ✨ [Jane Street In Focus](https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/) | All Student | Insight into Jane Street trading, engineering, and strategy. |
-| ✨ [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | Fall conference and networking program |
-| [Nordstrom Nspire Program](https://careers.nordstrom.com/pdfs/Nordstrom_Nspire_Program.pdf) | Sophomore | 2-week hybrid program in August |
-| [Impact Labs Summit](https://www.impactlabs.io/summit) | All student | Professional networking event for students & professionals in NYC |
+| Name | Year | Status/Open Date | Note |
+| ---- | ---- | ---- | ---- |
+| [Jane Street FTTP](https://www.janestreet.com/join-jane-street/programs-and-events/fttp/) | Freshman | ✅ Open | Insight into Jane Street for trading. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSd6tT-vntV0HAJrfm18h1MS8mMDlZQB6zFGRaIv-Id2OpL9Pw/viewform) |
+| [Bloomberg First Year Insights](https://www.bloomberg.com/company/career/first-year-insights/) | Freshman | ? | Series of virtual workshops related to finance/tech |
+| [Credit Suisse Explore](https://www.credit-suisse.com/careers/en/students/internships.html) | Freshman | ? | Spring virtual event series |
+| [SIG Discovery Day](https://dayinthelife.sig.com/early-talent/) | Freshman, Sophomore | ✅ Open | Spring virtual event for insight into career at SIG |
+| [Jane Street SEE](https://www.janestreet.com/join-jane-street/programs-and-events/see/) | Freshman, Sophomore | ? | Insight into CS and Math in Finance. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSfxZvW2CpqwepLhBLnO9UJemsUTNA8ulU-oYXb5uPJ9vKT1pw/viewform) |
+| [Discover Citadel](https://www.citadel.com/careers/students/discover-citadel/) | Freshman, Sophomore | November | 2-day event in-person in NYC during spring |
+| [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | ? | 3-day paid educational program, some are in-person. Express interest [here](https://www.deshaw.com/forms/RjYzQTNDMTktQ0Q4NC00MDRGLUFDRkEtRkJDQjY5NzhCNzRE) |
+| [Five Rings SDE Intensive Program](https://fiverings.avature.net/careers/SearchJobs/intensive?listFilterMode=1&folderRecordsPerPage=25&) | Sophomore | ? | 5-day paid program in NYC |
+| [JPMorgan Chase Career.edYOU Academy](https://careers.jpmorgan.com/global/en/students/programs/career-edyou) | Sophomore | ? | Virtual educational program |
+| [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | ? | Fall conference and networking program |
+| [Nordstrom Nspire Program](https://careers.nordstrom.com/pdfs/Nordstrom_Nspire_Program.pdf) | Sophomore | ? | 2-week hybrid program in August |
+| [Impact Labs Summit](https://www.impactlabs.io/summit) | All student | ? | Professional networking event for students & professionals in NYC |
 
 <br/>
 
@@ -143,13 +142,13 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 
 These are 1-4 week program during December/January. Activites includes hackathon, mentorship, networking event etc.
 
-| Name | Year | Note | 
-| ---- | ---- | ---- |
-| ✨ [HRT Women in Trading Tech Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=4384272&req_id=301) | Freshman, Sophomore | 2-4 week paid winternship for women new to quant |
-| ✨ [CUNY Sprinternship](https://newyork.breakthroughtech.org/programs/sprinternship-program/) | Freshman, Sophomore | 2-week tech internship prep program during January for first and second-year college women at CUNY. Stipend available |
-| ✨ [Virtu Women's Winternship](https://ir.virtu.com/press-releases/press-release-details/2023/Virtu-Financial-Launches-Fifth-AnnualWomens-Winternship-Program-2023/default.aspx) | All student | 1-week educational program |
-| Trail of Bits | All student | Work on cybersecurity related projects durign winter break. [Vulnerability Research](https://jobs.lever.co/trailofbits/5c836c41-04d0-4f16-8f7d-e3cfdc33191b) and [Open Source](https://jobs.lever.co/trailofbits/6a491883-3aaf-444e-a56c-3a0b37d6837e). Stipend available |
-| [Impact Labs Fellowship](https://www.impactlabs.io/fellowship) | All student | 2-week program in NYC during winter break. Financial assistance available |
+| Name | Year | Status/Open Date | Note |
+| ---- | ---- | ---- | ---- |
+| [HRT Women in Trading Tech Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=4384272&req_id=301) | Freshman, Sophomore | ? | 2-4 week paid winternship for women new to quant |
+| [CUNY Sprinternship](https://newyork.breakthroughtech.org/programs/sprinternship-program/) | Freshman, Sophomore | ? | 2-week tech internship prep program during January for first and second-year college women at CUNY. Stipend available |
+| [Virtu Women's Winternship](https://ir.virtu.com/press-releases/press-release-details/2023/Virtu-Financial-Launches-Fifth-AnnualWomens-Winternship-Program-2023/default.aspx) | All student | ? | 1-week educational program |
+| Trail of Bits | All student | ? | Work on cybersecurity related projects durign winter break. Stipend available |
+| [Impact Labs Fellowship](https://www.impactlabs.io/fellowship) | All student | ? | 2-week program in NYC during winter break. Financial assistance available |
 
 <br/>
 
@@ -157,9 +156,9 @@ These are 1-4 week program during December/January. Activites includes hackathon
 
 | Name | Year | Note |
 | ---- | ---- | ---- |
-| ✅ [Greylock Tech Fair](https://greylock.com/university-programs/) | All student | Virtual career fair. Express interest for next year's (2024) [here](https://docs.google.com/forms/d/e/1FAIpQLSfCrRlWxEVcoZVDIwvk8_gxZlecQQJSGcTxwWGkgN4dJBam6Q/viewform) |
-| ✅ [CodePath](https://www.codepath.org/plan-your-codepath) | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.  |
-| ✅ [Forage](https://www.theforage.com/) | All student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
-| ✅ Hacker News Who is Hiring? | All student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". Start-ups are generally more open to Freshmen and Sophomores |
+| [Greylock Tech Fair](https://greylock.com/university-programs/) | All student | Virtual career fair. Express interest for next year's (2024) [here](https://docs.google.com/forms/d/e/1FAIpQLSfCrRlWxEVcoZVDIwvk8_gxZlecQQJSGcTxwWGkgN4dJBam6Q/viewform) |
+| [CodePath](https://www.codepath.org/plan-your-codepath) | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.  |
+| [Forage](https://www.theforage.com/) | All student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc. |
+| Hacker News Who is Hiring? | All student | Monthly thread for mostly start-ups jobs. Ctrl-F "intern". Start-ups are generally more open to Freshmen and Sophomores |
 
 <br/>
