@@ -80,7 +80,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [Two Sigma College Mentor Connect](https://www.twosigma.com/community/academic-partnerships/undergraduate/college-mentor-connect/) | Freshman | ? | Pair with an employee to contribute to open source projects (part-time) |
 | [Capital One First Gen Focus](https://capitalone.eightfold.ai/events/candidate?plannedEventId=E75Y3bk7) | Freshman, Sophomore | ✅ Open | 8-week professional and personal development program |
 | [HeadStart Fellowship](https://www.headstartfellowship.com/fellowship) | Freshman, Sophomore | December | Virtual part-time educational/mentorship program during fall/spring semester |
-| [Microsoft New Techs](https://newtechnologists.com/) | Freshman, Sophomore | | 7-week hands-on training program. Mentorship from Microsoft senior staffs |
+| [Microsoft New Techs](https://newtechnologists.com/) | Freshman, Sophomore | ? | 7-week hands-on training program. Mentorship from Microsoft senior staffs |
 | [Uber career prep fellowship](https://www.uber.com/us/en/careers/careerprep/) | Freshman, Sophomore | ? | 7-month SWE learning & mentoring program. Pathway for full-time internship. [Register for interest here](https://flows.beamery.com/uber/ucpinterestform2023) |
 | [LyftU Early Talent Development](https://www.lyft.com/careers/early-talent) | Freshman, Sophomore | ? | 6-week virtual summer educational program. Pathway to full-time internship |
 | [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | ? | Unpaid virtual summer training program |
@@ -88,9 +88,9 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [IBM Accelerate](https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/) | Freshman, Sophomore | January | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. |
 | [Wells Fargo Discovery Fellowship](https://www.wellsfargojobs.com/en/jobs/r-298363/2024-wells-fargo-sophomore-discovery-fellowship-program/) | Sophomore | ✅ Open | Various offices to participate in a rotational experience. Pathway to full-time internship |
 | [Salesforce Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Sophomore | ? | |
-| [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | ? | |
-| [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | ? | |
-| [Federal Reserve Sophomore Career Exploration Program](https://www.newyorkfed.org/careers/student-programs-and-internships/sophomore-career-exploration-program) | Sophomore | ? | |
+| [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | ? | Paid virtual internship with mentor from other companies |
+| [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | ? | Career development & networking program. Pathway to full-time internship |
+| [Federal Reserve Sophomore Career Exploration Program](https://www.newyorkfed.org/careers/student-programs-and-internships/sophomore-career-exploration-program) | Sophomore | ? | 8-week exploration & mentorship program |
 | [MLH Fellowship](https://fellowship.mlh.io/) | All student | ✅ Open | Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | [Year Up](https://www.yearup.org/students) | All student | ✅ Open | Free hybrid training program. Get matched to an internship after training |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | ? | Program for developers new to open-source contribution. Stipend available |
