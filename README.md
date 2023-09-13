@@ -129,7 +129,6 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | [JPMorgan Chase Career.edYOU Academy]([https://careers.jpmorgan.com/global/en/students/programs/career-edyou](https://jpmc.recsolu.com/app/collect/form/fDjoIFCfrd994YFviUbcvw)) | Sophomore | ✅ Open | Virtual educational program |
 | [D.E. Shaw Fellowships](https://fellowships.deshaw.com/) | Sophomore | ? | 3-day paid educational program, some are in-person. Express interest [here](https://www.deshaw.com/forms/RjYzQTNDMTktQ0Q4NC00MDRGLUFDRkEtRkJDQjY5NzhCNzRE) |
 | [Five Rings SDE Intensive Program](https://fiverings.avature.net/careers/SearchJobs/intensive?listFilterMode=1&folderRecordsPerPage=25&) | Sophomore | ? | 5-day paid program in NYC |
-
 | [Credit Suisse Connect](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | ? | Fall conference and networking program |
 | [Nordstrom Nspire Program](https://careers.nordstrom.com/pdfs/Nordstrom_Nspire_Program.pdf) | Sophomore | ? | 2-week hybrid program in August |
 | [Impact Labs Summit](https://www.impactlabs.io/summit) | All student | ? | Professional networking event for students & professionals in NYC |
