@@ -20,7 +20,6 @@
 
 <br/>
 
-
 ## Contents
 
 - [Useful Lists](#useful-lists)
@@ -73,7 +72,6 @@
 ## Fellowships
 Fellowships can be internships, but also mentorship, training, or open source contribution programs. These are long in duraction (6-12 weeks)
 
-
 | Name | Year | Status/Open Date | Note |
 | ---- | ---- | ---- | ---- |
 | [Jane Street Immersion Program](https://www.janestreet.com/join-jane-street/programs-and-events/jsip/) | Freshman | ? | June - August software engineering fellowship at Jane Street NYC. Stipend available. Express interest [here](https://docs.google.com/forms/d/e/1FAIpQLSdHxQcTsb1ddgre603FS2g8e2zxUiP4tsz0OLAl2gPE1NfXOg/viewform) |
@@ -98,7 +96,6 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | ? | 2-6 month self-paced program to work on open source research tools. Stipend available |
 
 <br/>
-
 
 ## Internship-matching Fellowships
 A type of fellowship hosted by NPOs/VCs for matching students to internships. Usually not exclusive to underclassmen, but gives us a fair shot
