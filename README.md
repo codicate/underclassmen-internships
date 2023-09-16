@@ -105,7 +105,7 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | [Neo Scholar](https://neo.com/scholars) | All student | ✅ Open | Get matched to start-ups, plus mentorship & resources for building your own |
 | [Hack Diversity](https://www.hackdiversity.com/) |	All Student | ✅ Open |	Match [NYC](https://www.hackdiversity.com/how-to-apply-nyc) and [Boston](https://www.hackdiversity.com/how-to-apply-boston) students to internships. Provides year-round technical training |
 | [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | All student | ✅ Open year-round | Match students to media tech companies for all seasons. Available for students in CS, Business, Journalism, etc. |
-| [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) | All student | October | Connecting students in tech to government offices |
+| [Coding it Forward’s Fellowship](https://www.codingitforward.com/fellowship) | All student | October 16th | Connecting students in tech to government offices |
 | [8VC Fellowship](https://www.8vc.com/fellowships) | All student | ? | Fellowship open to CS & Design majors, match to investment portfolio tech start-ups. Register interest [here](https://8vc.typeform.com/fellowinterest?typeform-source=www.8vc.com) |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/) | All student | ? | Match students to various tech start-ups |
 | [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All student | ? | Match students to various tech start-ups |
