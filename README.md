@@ -84,17 +84,18 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [Pinterest Engage Scholars](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/) | Freshman, Sophomore | ? | Unpaid virtual summer training program |
 | [SEO Tech Developer](https://tech.seo-usa.org/) | Freshman, Sophomore | December | 6-week immersion program + interview prep and training (Freshman can apply to the self-paced academy program) |
 | [IBM Accelerate](https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/) | Freshman, Sophomore | January | 8-week summer virtual learning experience in tracks such as Software, Hardware, Design, etc. |
-| [Wells Fargo Discovery Fellowship](https://www.wellsfargojobs.com/en/jobs/r-298363/2024-wells-fargo-sophomore-discovery-fellowship-program/) | Sophomore | ✅ Open | Various offices to participate in a rotational experience. Pathway to full-time internship |
 | [Federal Reserve Sophomore Career Exploration Program](https://www.newyorkfed.org/careers/student-programs-and-internships/sophomore-career-exploration-program) | Sophomore | ✅ Open | 8-week exploration & mentorship program |
 | [Salesforce Futureforce Tech Launchpad](https://info.codepath.org/futureforce-tech-launchpad-salesforce-and-codepath) | Sophomore | ? | |
 | [CodePath Summer Internship for Tech Excellence](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site) | Sophomore | ? | Paid virtual internship with mentor from other companies |
 | [Credit Suisse Women's Mentor Program](https://www.credit-suisse.com/careers/en/students/internships.html) | Sophomore | ? | Career development & networking program. Pathway to full-time internship |
+| [Wells Fargo Discovery Fellowship](https://www.wellsfargojobs.com/en/jobs/r-298363/2024-wells-fargo-sophomore-discovery-fellowship-program/) | Sophomore | ⛔ Closed | Various offices to participate in a rotational experience. Pathway to full-time internship |
 | [MLH Fellowship](https://fellowship.mlh.io/) | All student | ✅ Open year-round | Available for Spring, Summer, and Fall. Stipend available. Guaranteed interview for MLH hackathon winners |
 | [Year Up](https://www.yearup.org/students) | All student | ✅ Open year-round | Free hybrid training program. Get matched to an internship after training |
 | [Outreachy](https://www.outreachy.org/) | All Student | mid-January | Match students to an open-source project. Stipend available |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | ? | Program for developers new to open-source contribution. Stipend available |
 | [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | ? | 2-6 month self-paced program to work on open source research tools. Stipend available |
 | [Keploy API Fellowship](https://fellowship.keploy.io/) | All student | December | A training program for you to get into the world of APIs and API Testing with Keploy and help others grow with APIs |
+| [Keploy DevRel Cohort](https://devrel.keploy.io/) | All student | ⛔ Closed | Get into the world of DevRels and experience of being one for a month |
 
 <br/>
 
@@ -112,7 +113,6 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All student | ? | Match students to various tech start-ups |
 | [YES Internships](https://www.internships.yesatyale.org/students) | All student | ? | Match students to various tech start-ups |
 | [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | ⛔ Closed | Match Black & Latinx students to summer internships |
-| [Keploy DevRel Cohort](https://devrel.keploy.io/) | All student | ⛔ Closed | Get into the world of DevRels and experience of being one for a month |
 
 <br/>
 
