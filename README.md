@@ -54,7 +54,7 @@
 | [UberSTAR](https://www.uber.com/us/en/careers/uberstar/) | Freshmen, Sophomore | Late Summer | [Register for interest now](https://flows.beamery.com/uber/stay-connected-with-uberstar!-7dyuntw1c) |
 | [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Freshman, Sophomore | ? | |
 | [EA Pathfinder](https://ea.gr8people.com/jobs?page=1&inp1377=2&keyword=pathfinder) | Freshman, Sophomore | ? | 12-week internship open to SWE, PM, etc. |
-| [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/NVIDIA-Ignite-Program---Engineering--Summer-2023_JR1962404) | Freshman, Sophomore | ? | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
+| [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/NVIDIA-Ignite-Internship--Hardware-Software-Business-Operations---Summer-2024_JR1972457?q=ignite) | Freshman, Sophomore | ✅ Open | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
 | [Capital One Technology Early Internship](https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2024/31238/52660888800?messenger=email) | Freshman, Sophomore | ⛔ Closed | For beginners. Offers a bootcamp and internship project experience with Capital One |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211120/?keyword=sophomore&mode=location) | Sophomore | ✅ Open | SWE Internship in OCI and Cloud Platforms |
 | [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2024/) | Sophomore | ✅ Open | |
