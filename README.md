@@ -94,6 +94,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [Outreachy](https://www.outreachy.org/) | All Student | mid-January | Match students to an open-source project. Stipend available |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | All student | ? | Program for developers new to open-source contribution. Stipend available |
 | [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/) | All student | ? | 2-6 month self-paced program to work on open source research tools. Stipend available |
+| [Keploy API Fellowship](https://fellowship.keploy.io/) | All student | December | A training program for you to get into the world of APIs and API Testing with Keploy and help others grow with APIs |
 
 <br/>
 
@@ -111,6 +112,7 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/) | All student | ? | Match students to various tech start-ups |
 | [YES Internships](https://www.internships.yesatyale.org/students) | All student | ? | Match students to various tech start-ups |
 | [Code2040 Fellows](https://www.code2040.org/fellows-program) | All student | ⛔ Closed | Match Black & Latinx students to summer internships |
+| [Keploy DevRel Cohort](https://devrel.keploy.io/) | All student | ⛔ Closed | Get into the world of DevRels and experience of being one for a month |
 
 <br/>
 
