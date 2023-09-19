@@ -56,6 +56,7 @@
 | [EA Pathfinder](https://ea.gr8people.com/jobs?page=1&inp1377=2&keyword=pathfinder) | Freshman, Sophomore | ? | 12-week internship open to SWE, PM, etc. |
 | [NVIDIA Ignite](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/NVIDIA-Ignite-Internship--Hardware-Software-Business-Operations---Summer-2024_JR1972457?q=ignite) | Freshman, Sophomore | ✅ Open | Open to SWE, Hardware, AI, Graphics, etc. and majors in CS, CE, EE, etc. |
 | [Capital One Technology Early Internship](https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2024/31238/52660888800?messenger=email) | Freshman, Sophomore | ⛔ Closed | For beginners. Offers a bootcamp and internship project experience with Capital One |
+| [BoA Sophomore Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-2749362/xf-76b73a3ee885/candidate/so/pm/1/pl/1/opp/10195) | Sophomore | ✅ Open | |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211120/?keyword=sophomore&mode=location) | Sophomore | ✅ Open | SWE Internship in OCI and Cloud Platforms |
 | [Citadel Launch](https://www.citadel.com/careers/details/launch-internship-summer-2024/) | Sophomore | ✅ Open | |
 | [Microsoft Explore (Sophomore)](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Sophomore | September 26th | |
