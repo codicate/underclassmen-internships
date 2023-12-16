@@ -106,6 +106,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 
 A type of fellowship hosted by NPOs/VCs for matching students to internships. Usually not exclusive to underclassmen, but gives us a fair shot
 
+<<<<<<< HEAD
 | Name                                                                                                           | Status/Open Date   | Year        | Note                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------- | ------------------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Kleiner Perkins Fellows](https://jobs.ashbyhq.com/kleinerperkinsfellows/3e50ee21-d783-4ad3-8cfc-339fc813b4b0) | ✅ Open            | All student |                                                                                                                                                                                             |
@@ -117,6 +118,21 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | [Code2040 Fellows](https://www.code2040.org/fellows-program)                                                   | ⛔ Closed          | All student |                                                                                                                                                                                             |
 | [Coding it Forward’s Fellowship](https://www.codingitforward.com/fellowship)                                   | ⛔ Closed          | All student | Connecting students in tech to government offices                                                                                                                                           |
 | [Hack Diversity](https://www.hackdiversity.com/)                                                               | ⛔ Closed          | All Student | Match [NYC](https://www.hackdiversity.com/how-to-apply-nyc) and [Boston](https://www.hackdiversity.com/how-to-apply-boston) students to internships. Provides year-round technical training |
+=======
+| Name                                                                          | Status/Open Date   | Year        | Note                                                                                                                                                                                        |
+| ----------------------------------------------------------------------------- | ------------------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [INROADS](https://inroads.org/apply/)  | ✅ Open     | All student | STEM & Other Majors                
+|
+| [8VC Fellowship](https://www.8vc.com/fellowships)                             | ✅ Open                   | All student | Fellowship open to CS & Design majors. Register interest [here](https://8vc.typeform.com/fellowinterest?typeform-source=www.8vc.com)                                                        |
+| [Coding it Forward’s Fellowship](https://www.codingitforward.com/fellowship)  | ✅ Open     | All student | Connecting students in tech to government offices                                                                                                                                           |
+| [Neo Scholar](https://neo.com/scholars)                                       | ✅ Open            | All student | Get matched to start-ups, plus mentorship & resources for building your own                                                                                                                 |
+| [Hack Diversity](https://www.hackdiversity.com/)                              | ✅ Open            | All Student | Match [NYC](https://www.hackdiversity.com/how-to-apply-nyc) and [Boston](https://www.hackdiversity.com/how-to-apply-boston) students to internships. Provides year-round technical training |
+| [Emma Bowen Foundation Fellowship](https://www.emmabowenfoundation.org/apply) | ✅ Open year-round | All student | Match to fall/summer/spring internships. Available for students in CS, Business, Journalism, etc.                                                                                           |
+| [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/)                | ?                  | All student |                                                                                                                                                                                             |
+| [GGV NextGen Fellowship](https://www.ggvc.com/ggv-nextgen-fellow/)            | ?                  | All student |                                                                                                                                                                                             |
+| [YES Internships](https://www.internships.yesatyale.org/students)             | ?                  | All student |                                                                                                                                                                                             |
+| [Code2040 Fellows](https://www.code2040.org/fellows-program)                  | ⛔ Closed          | All student |                                                                                                                                                                                             |
+>>>>>>> d15accddbde8fd2e9956e5138ac4b97df885ffdf
 
 <br/>
 
