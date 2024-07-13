@@ -35,7 +35,7 @@
 ## Useful Lists
 
 - [List of Opportunities in Tech for All Class Years](https://github.com/Julian048/CS-Programs-Fellowships-Insights)
-- [List of Summer 2024 Tech Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
+- [List of Summer 2025 Tech Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
 - [List of Open-Source Fellowships](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 - [List of Undergraduate Research Internships](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 
